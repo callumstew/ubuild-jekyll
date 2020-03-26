@@ -23,7 +23,7 @@ page_sections:
   cta:
     enabled: true
     url: https://google.com
-    button_text: Download for android
+    button_text: Download for Android
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
