@@ -6,7 +6,11 @@ page_sections:
 - template: navigation-header
   block: header-1
   logo: ''
-  navigation: []
+  navigation:
+  - link: "/"
+    link_text: Home
+  - link: Team
+    link_text: https://phidatalab.org
 - template: hero-banner-w-image
   block: hero-2
   headline: CoViD<br><strong>Collab</strong><br>
