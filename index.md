@@ -36,6 +36,30 @@ page_sections:
     enabled: true
     url: https://www.apple.com
     button_text: Download for iOS
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: headline
+  content: content
+  media:
+    image: ''
+    alt_text: ''
+- template: detail-content
+  block: text-1
+  headline: ''
+  content: ''
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    headline: ''
+    content: ''
+  col_2:
+    headline: ''
+    content: ''
+- template: full-width-media-element
+  block: media-1
+  image: ''
+  caption: ''
 
 ---
 foo bar
