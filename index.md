@@ -40,14 +40,18 @@ page_sections:
   block: feature-1
   media_alignment: Right
   headline: headline
-  content: content
+  content: content contentcontent contentcontent contentcontent contentcontent contentcontent
+    contentcontent contentcontent contentcontent contentcontent contentcontent content
   media:
     image: ''
     alt_text: ''
 - template: detail-content
   block: text-1
-  headline: ''
-  content: ''
+  headline: headline detail
+  content: "<p>content contentcontent contentcontent contentcontent contentcontent
+    contentcontent contentcontent contentcontent contentcontent contentcontent contentcontent
+    contentcontent contentcontent contentcontent contentcontent contentcontent contentcontent
+    contentcontent contentcontent contentcontent contentcontent contentcontent content</p>"
 - template: 2-column-text
   block: two-column-1
   col_1:
