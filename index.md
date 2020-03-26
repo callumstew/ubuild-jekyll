@@ -9,12 +9,17 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
-  - link: Team
-    link_text: https://phidatalab.org
+  - link: "#about"
+    link_text: About
+  - link: https://phidatalab.org
+    link_text: Team
 - template: hero-banner-w-image
   block: hero-2
   headline: CoViD<br><strong>Collab</strong><br>
-  content: App
+  content: Welcome to the <strong>CoViD ColLab</strong>! This is a citizen science
+    research project calling on the donation of data from you to help in the fight
+    against Coronavirus-2 (CoViD-19).<br><br>To do this we need Data only you can
+    provide!
   cta:
     enabled: true
     url: https://google.com
