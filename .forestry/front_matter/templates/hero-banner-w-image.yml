@@ -47,7 +47,7 @@ fields:
   - type: text
     name: button_text
     label: Button text
-- name: call_to_action_2
+- name: cta2
   type: field_group
   config: {}
   fields:
@@ -66,4 +66,4 @@ fields:
     config:
       required: false
     label: Button text
-  label: Call to action 2
+  label: Call-to-action-2
