@@ -47,3 +47,23 @@ fields:
   - type: text
     name: button_text
     label: Button text
+- name: call_to_action_2
+  type: field_group
+  config: {}
+  fields:
+  - name: enabled
+    type: boolean
+    label: Enabled
+    hidden: false
+    default: false
+  - name: url
+    type: text
+    config:
+      required: false
+    label: url
+  - name: button_text
+    type: text
+    config:
+      required: false
+    label: Button text
+  label: Call to action 2
