@@ -23,6 +23,10 @@ page_sections:
     enabled: true
     url: http://apple.com
     button_text: iOS
+  cta2:
+    enabled: true
+    url: http://apple.com
+    button_text: Download for iOS
 - template: content-feature
   block: feature-1
   media_alignment: Left
