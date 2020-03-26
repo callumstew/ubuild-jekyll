@@ -4,7 +4,7 @@ author: Callum Stewart
 email: callum.stewart@kcl.ac.uk
 description: Desc.
 baseurl: "/"
-url: ''
+url: https://covid-collab.org
 defaults:
 - scope:
     path: ''
