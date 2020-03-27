@@ -5,7 +5,7 @@ published: false
 ---
 # CoViD Collab Privacy Policy
 
-CoViD collab is developed by the PHIDatalab group which is a research group at King's College London. This privacy policy will explain how our organization uses the personal data we collect from you when you use our application and website.
+CoViD collab is developed by the PHIDatalab group which is a research group at King's College London. This privacy policy will explain how our organization uses the personal data we collect from you when you use our application and website.-
 
 ## Topics:
 
