@@ -62,8 +62,8 @@ page_sections:
     content: ''
 - template: 4-column-footer
   block: footer-2
-  col_2: <br><a href="/privacy_policy.html" title="Privacy Policy">Privacy Policy</a>
-  image: "/uploads/2020/03/27/logo.svg"
+  col_2: <a href="/privacy_policy.html" title="Privacy Policy">Privacy Policy</a>
+  image: ''
   col_3: ''
   col_4: ''
 block: footer-2
