@@ -4,7 +4,6 @@ menu:
   main:
     weight: 2
     title: Privacy Policy
-published: false
 
 ---
 # CoViD Collab Privacy Policy
