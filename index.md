@@ -60,10 +60,6 @@ page_sections:
   col_2:
     headline: ''
     content: ''
-- template: full-width-media-element
-  block: media-1
-  image: ''
-  caption: ''
 
 ---
 foo bar
