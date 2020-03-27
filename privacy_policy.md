@@ -82,11 +82,17 @@ If you make a request, we have one month to respond to you. If you would like to
 Call us at: +44 (0)20 7848 0951
 
 Or write to us:
+
 > PHIDatalab
+>
 > Department of Biostatistics & Health Informatics
+>
 > SGDP Centre, PO80, IoPPN
+>
 > King’s College London
-> De Crespigny Park, Denmark HilL
+>
+> De Crespigny Park, Denmark Hill
+>
 > London SE5 8AF
 
 ## Cookies
