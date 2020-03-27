@@ -6,7 +6,6 @@ layout: blocks
 page_sections: []
 title: ''
 date: ''
-published: false
 
 ---
 # CoViD Collab Privacy Policy
