@@ -10,7 +10,8 @@ CoViD collab is developed by the PHIDatalab group which is a research group at K
 ## Topics:
 
 * What data do we collect?
-* How do we collect your data?How will we use your data?
+* How do we collect your data?
+* How will we use your data?
 * How do we store your data?
 * What are your data protection rights?
 * What are cookies?
@@ -28,41 +29,49 @@ Our group collects the following data:
 
 * Personal identification information (Name, email address, phone number, etc.)
 * Location coordinates
-* Well-being and health surveys
+* Wellbeing and health surveys
 
 ## How do we collect your data?
 
-You directly provide our group with most of the data we collect. We collect data and process data when you:Register online or place an order for any of our products or services.Voluntarily complete a customer survey or provide feedback on any of our message boards or via email.Use or view our website via your browser’s cookies.\[Add any other ways your company collects data\]
+You directly provide our group the data we collect. We collect data and process data when you:
 
-Our Company may also receive your data indirectly from the following sources:\[Add any indirect source of data your company has\]
+* Register online through the application.
+* Voluntarily complete a health or wellbeing survey
+* When you provide feedback or contact us through email or the mobile application store pages.
+* Through background tracking of location coordinates if you enable collection through the app.
+* Use or view our website via your browser’s cookies.
+
+CoViD Collab can also receive data from third party services where you have explicitly connected your account. For example: Heart rate, sleep, and steps are received from Fitbit if you chose to authorize use to access your Fitbit data through the CoViD Collab app.
 
 ## How will we use your data?
 
-Our Company collects your data so that we can:
+CoViD Collab collects your data so that we can analyse it in order to answer important questions on:
 
-\[Add how else your company uses data\]
+* The effect of the Covid-19 outbreak on mental health
+* The symptomology of Covid-19
+* The prevalence and spread of Covid-19
 
 If you agree, our group will share an anonymised copy of your data with other research groups at the conclusion of the study.
 
 ## How do we store your data?
 
-Our Company securely stores your data at \[enter the location and describe security precautions taken\]. Our Company will keep your \[enter type of data\] for \[enter time period\]. Once this time period has expired, we will delete your data by \[enter how you delete users’ data\].
+CoViD Collab securely stores your data on the Google Cloud platform and on encrypted servers at King's College London. Only pseudo-anonymised and processed data will be available to analysts; actual location coordinates will be stored encrypted and only accessed to process into pseudo-anonymised metrics. CoViD Collab will keep your personal data for 2 years. Once this time period has expired, we will delete your personal data.
 
 ## What are your data protection rights?
 
-Our Company would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:
+CoViD Collab would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:
 
-**The right to access** – You have the right to request Our Company for copies of your personal data. We may charge you a small fee for this service.
+**The right to access** – You have the right to request CoViD Collab for copies of your personal data. We may charge you a small fee for this service.
 
-**The right to rectification** – You have the right to request that Our Company correct any information you believe is inaccurate. You also have the right to request Our Company to complete the information you believe is incomplete.
+**The right to rectification** – You have the right to request that CoViD Collab correct any information you believe is inaccurate. You also have the right to request CoViD Collab to complete the information you believe is incomplete.
 
-**The right to erasure** – You have the right to request that Our Company erase your personal data, under certain conditions.
+**The right to erasure** – You have the right to request that CoViD Collab erase your personal data, under certain conditions.
 
-**The right to restrict processing** – You have the right to request that Our Company restrict the processing of your personal data, under certain conditions.
+**The right to restrict processing** – You have the right to request that CoViD Collab restrict the processing of your personal data, under certain conditions.
 
-**The right to object to processing** – You have the right to object to Our Company’s processing of your personal data, under certain conditions.
+**The right to object to processing** – You have the right to object to CoViD Collab’s processing of your personal data, under certain conditions.
 
-**The right to data portability** – You have the right to request that Our Company transfer the data that we have collected to another organization, or directly to you, under certain conditions.
+**The right to data portability** – You have the right to request that CoViD Collab transfer the data that we have collected to another organization, or directly to you, under certain conditions.
 
 If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us at our email: [callum.stewart@kcl.ac.uk](callum.stewart@kcl.ac.uk "callum.stewart@kcl.ac.uk")
 
@@ -70,7 +79,7 @@ Call us at: +44 (0)20 7848 0951
 
 Or write to us:
 
-> PhiDataLab
+> PHIDatalab
 >
 > Department of Biostatistics & Health Informatics
 >
@@ -90,7 +99,7 @@ For further information, visit allaboutcookies.org.
 
 ### How do we use cookies
 
-Our Company uses cookies in a range of ways to improve your experience on our website, including:
+CoViD Collab uses cookies in a range of ways to improve your experience on our website, including:
 
 * Keeping you signed in
 * Understanding how you use our website
@@ -99,7 +108,7 @@ Our Company uses cookies in a range of ways to improve your experience on our we
 
 There are a number of different types of cookies, however, our website uses:
 
-Functionality – Our Company uses these cookies so that we recognize you on our website and remember your previously selected preferences. These could include what language you prefer and location you are in. A mix of first-party and third-party cookies are used.
+Functionality – CoViD Collab uses these cookies so that we recognize you on our website and remember your previously selected preferences. These could include what language you prefer and location you are in. A mix of first-party and third-party cookies are used.
 
 ### How to manage cookies
 
