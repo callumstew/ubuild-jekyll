@@ -82,17 +82,11 @@ If you make a request, we have one month to respond to you. If you would like to
 Call us at: +44 (0)20 7848 0951
 
 Or write to us:
-
 > PHIDatalab
->
 > Department of Biostatistics & Health Informatics
->
 > SGDP Centre, PO80, IoPPN
->
 > King’s College London
->
 > De Crespigny Park, Denmark HilL
->
 > London SE5 8AF
 
 ## Cookies
@@ -132,9 +126,15 @@ If you have any questions about CoViD Collab’s privacy policy, the data we hol
 
 Email us at: [callum.stewart@kcl.ac.uk](callum.stewart@kcl.ac.uk "callum.stewart@kcl.ac.uk")
 
-Call us:
+Call us at: +44 (0)20 7848 0951
 
-Or write to us at:
+Or write to us:
+> PHIDatalab
+> Department of Biostatistics & Health Informatics
+> SGDP Centre, PO80, IoPPN
+> King’s College London
+> De Crespigny Park, Denmark HilL
+> London SE5 8AF
 
 ## How to contact the appropriate authority
 
