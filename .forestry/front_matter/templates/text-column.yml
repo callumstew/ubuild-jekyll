@@ -12,5 +12,3 @@ fields:
     wysiwyg: true
     schema:
       format: html
-pages:
-- privacy_policy.md

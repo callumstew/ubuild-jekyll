@@ -1,7 +1,7 @@
 ---
 headline: Privacy Policy
 content: ''
-block: one-column-1
+block: text-1
 layout: blocks
 page_sections: []
 title: ''
