@@ -31,5 +31,3 @@ fields:
     wysiwyg: true
     schema:
       format: html
-pages:
-- index.md
