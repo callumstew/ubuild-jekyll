@@ -10,8 +10,7 @@ style="background-image: url('{{ section.background_image | relative_url }}')"
         {% if section.cta and section.cta.enabled == true %}
         <a class="button primary inverted" href="{{ section.cta.url }}">{{ section.cta.button_text }}</a>
         {% endif %}
-        {% if section.cta and section.cta2.enabled == true %}
-        <br />
+        {% if section.cta2 and section.cta2.enabled == true %}
         <a class="button primary inverted" href="{{ section.cta2.url }}">{{ section.cta2.button_text }}</a>
         {% endif %}
       </div>
