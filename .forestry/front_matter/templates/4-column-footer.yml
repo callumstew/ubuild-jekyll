@@ -32,5 +32,4 @@ fields:
     schema:
       format: html
 pages:
-- "./homepage.md"
 - index.md
