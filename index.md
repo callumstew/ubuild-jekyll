@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Homepage
-date: 2020-03-22 22:00:00 +0000
+date: '2020-03-22 22:00:00 +0000'
 page_sections:
 - template: navigation-header
   block: header-1
@@ -60,6 +60,16 @@ page_sections:
   col_2:
     headline: ''
     content: ''
+- template: 4-column-footer
+  block: footer-2
+  col_2: <br><a href="/privacy_policy.html" title="Privacy Policy">Privacy Policy</a>
+  image: "/uploads/2020/03/27/logo.svg"
+block: footer-2
+content: Privacy Policy
+col_2: Privacy Policy
+col_3: ''
+col_4: ''
+image: ''
 
 ---
 foo bar
