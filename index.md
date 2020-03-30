@@ -29,9 +29,9 @@ page_sections:
     url: https://google.com
     button_text: Download for Android
   image:
-    image: "/uploads/2020/03/27/fitbit-ch2.png"
-    alt_text: Fitbit
-  background_image: "/uploads/2020/03/27/covid5crp.png"
+    image: "/uploads/2020/03/27/covid_app_fitbit.png"
+    alt_text: "Covid Collab App and Fitbit"
+  background_image: "/uploads/2018/06/21/hero-2-bg.png"
   call_to_action_2:
     enabled: true
     url: http://apple.com
@@ -75,10 +75,44 @@ page_sections:
   media:
     image: '/uploads/2020/03/27/covid11.png'
     alt_text: ''
+- template: content-feature
+  block: feature-2
+  media_alignment: Right
+  headline: "Prospective Data"
+  content:
+    "<strong>Sign up to the study before you were ill</strong>
+    By signing up to our study before any sign of illness gives us the most useful data. In this way we are able to collect data and have you annotate it with questionnaires as you go forward in time, this information is critical to providing context to the data you donate to us.
+    <br>"
+  media:
+    image: '/uploads/2020/03/27/covid-sequence-1.png'
+    alt_text: ''
 - template: detail-content
   block: text-1
-  headline: headline detail
-  content: ""
+  headline: Sign up to Covid Collab!
+  content: "Please sign up to help us study CoViD19 and how it affects the population"
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    headline: ''
+    content: ''
+  col_2:
+    headline: ''
+    content: ''
+- template: content-feature
+  block: feature-2
+  media_alignment: Right￼
+  headline: "Retrospective Data"
+  content:
+    "<strong>Were you ill or diagnosed in the past? This is still useful!</strong>
+    If you have a Fitbit and were previously ill, when you sign up you can still donate the data from that previous time! This will enable our data scientists to study effects of the virus on your health.
+    <br>"
+  media:
+    image: '/uploads/2020/03/27/covid-sequence-2.png'
+    alt_text: ''
+- template: detail-content
+  block: text-1
+  headline: Contribution after you were ill.
+  content: "You can still take part in Covid Collab."
 - template: 2-column-text
   block: two-column-1
   col_1:
