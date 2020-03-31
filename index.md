@@ -43,14 +43,14 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: "If you are an owner of a Fitbit Device and a Smartphone then you are eligible to participate!"
+  headline: "Do you own a Fitbit device and a Smartphone then you are eligible to participate!"
   content:
     "<strong>Some questions you'd be helping answer</strong>
     <ul>
-    <li>How social distancing measures affect the transmission rate (inside families and the general population) of the virus in normal the population?</li>
-    <li>What are the symptoms? Are there any early predictors of infection (e.g. heart rate, activity, respiration, sleep, loss of sense of smell)? And how reliable are these?</li>
-    <li>How contagious the virus is?</li>
-    <li>What factors affect how the CoViD-19 disease behaves? Are there any behavioural (e.g. fatigue) or physiological factors that determine progression or mild/moderate/severe outcomes?</li>
+    <li><b>How social distancing measures affect the transmission rate</b> (inside families and the general population) of the virus in normal the population?</li>
+    <li><b>What are the symptoms? Are there any early predictors of infection</b> (e.g. heart rate, activity, respiration, sleep, loss of sense of smell)? And how reliable are these?</li>
+    <li><b>How contagious the virus is?</b></li>
+    <li><b>What factors affect how the CoViD-19 disease behaves?</b> Are there any behavioural (e.g. fatigue) or physiological factors that determine progression or mild/moderate/severe outcomes?</li>
     </ul>"
   media:
     image: '/uploads/2020/03/27/fitbit-data-512.png'
@@ -58,7 +58,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: "Don't own a Fitbit?"
+  headline: "Don't own a Fitbit? You can still participate"
   content:
     "<strong>How do you participate?</strong>
     <br>
@@ -67,9 +67,7 @@ page_sections:
     <li>Providing some phone data such as location (this is only used for our scientific work see our privacy policy and data use?</li>
     <li>If you have a Fitbit device then we’d like you to wear it and provide us with a feed of your heart rate, activity step count and sleep.</li>
     <br>
-    <br>
     And...
-    <br>
     <bt>
     <p>You can still contribute by completing our questionnaires via the App or help us share this online (twitter: @covid_collab, #covid_collab). It is essential we are able to collect this data as early as possible before large numbers of people people get infected by the virus.</pr>"
   media:
@@ -89,15 +87,15 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: Sign up to Covid Collab!
-  content: "Please sign up to help us study CoViD19 and how it affects the population"
+  content: "Help us study CoViD19 and how it affects the population"
 - template: 2-column-text
   block: two-column-1
   col_1:
-    headline: ''
-    content: ''
+    headline: 'This data will help us understand'
+    content: 'how the virus is transmitted and what effects on your health this might include? By having data from your Fitbit we are interested to understand if there are early signals (e.g. such as Heart Rate) which may provide early signs of infection'
   col_2:
-    headline: ''
-    content: ''
+    headline: 'What makes some people more sick than others?'
+    content: 'It is poorly understood why CoViD-19 effects some people more severely. We hope this data will help us better understand duration of infection, severity and what factors influence this.'
 - template: content-feature
   block: feature-2
   media_alignment: Right￼
@@ -116,11 +114,11 @@ page_sections:
 - template: 2-column-text
   block: two-column-1
   col_1:
-    headline: ''
-    content: ''
+    headline: 'This data will help us...'
+    content: 'understanding what effects different (Non Pharmaceutical Interventions (NPIs) e.g. Social Distancing) have on the spread of the virus'
   col_2:
-    headline: ''
-    content: ''
+    headline: 'Mental health and wellbeing'
+    content: 'There is no doubt that NPIs & Social Isolation policy cause significant stress. We want to be better understand this and how they could be better implemented'
 - template: 4-column-footer
   block: footer-2
   col_2: <a href="/privacy_policy.html" title="Privacy Policy">Privacy Policy</a>
@@ -135,4 +133,3 @@ col_4: ''
 image: ''
 
 ---
-foo bar
