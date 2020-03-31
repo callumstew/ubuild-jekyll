@@ -127,6 +127,10 @@ col_2: Privacy Policy
 col_3: ''
 col_4: ''
 image: ''
+menu:
+  main:
+    weight: 3
+    title: draft
 published: false
 
 ---
