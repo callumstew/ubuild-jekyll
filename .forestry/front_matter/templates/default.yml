@@ -8,4 +8,5 @@ fields:
   hidden: false
   default: default
 pages:
+- ".forestry/snippets/test.snippet"
 - privacy_policy.md
