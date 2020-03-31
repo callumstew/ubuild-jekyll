@@ -78,8 +78,8 @@ page_sections:
   media_alignment: Right
   headline: "Prospective Data"
   content:
-    "<strong>Sign up to the study before you were ill</strong>
-    By signing up to our study before any sign of illness gives us the most useful data. In this way we are able to collect data and have you annotate it with questionnaires as you go forward in time, this information is critical to providing context to the data you donate to us.
+    "<strong>Sign up to the study before you were ill.</strong>
+    Signing up to our study before any sign of illness gives us the most useful data. In this way we are able to collect data and have you annotate it with questionnaires at baseline, during illness and during convalescence. This detailed contextual information provides us with a critical window into CoViD19 that we simply cannot collect any other way.
     <br>"
   media:
     image: '/uploads/2020/03/27/covid-sequence-1.png'
@@ -96,6 +96,10 @@ page_sections:
   col_2:
     headline: 'What makes some people more sick than others?'
     content: 'It is poorly understood why CoViD-19 effects some people more severely. We hope this data will help us better understand duration of infection, severity and what factors influence this.'
+- template: detail-content
+  block: text-1
+  headline: Contribution after you were ill.
+  content: "You can still take part in Covid Collab."
 - template: content-feature
   block: feature-2
   media_alignment: Right￼
@@ -107,10 +111,6 @@ page_sections:
   media:
     image: '/uploads/2020/03/27/covid-sequence-2.png'
     alt_text: ''
-- template: detail-content
-  block: text-1
-  headline: Contribution after you were ill.
-  content: "You can still take part in Covid Collab."
 - template: 2-column-text
   block: two-column-1
   col_1:
