@@ -127,7 +127,6 @@ col_2: Privacy Policy
 col_3: ''
 col_4: ''
 image: ''
-published: false
 
 ---
 foo bar
