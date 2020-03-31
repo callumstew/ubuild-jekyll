@@ -9,7 +9,7 @@ sections:
   label: Snippets
   create: documents
   match: "**/*"
-  new_doc_ext: ".snippet"
+  new_doc_ext: snippet
 - type: jekyll-posts
   label: Posts
   create: all
