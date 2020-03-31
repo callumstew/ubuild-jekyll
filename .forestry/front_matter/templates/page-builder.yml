@@ -32,5 +32,6 @@ fields:
   - simple-footer
   - 4-column-footer
 pages:
+- "./homepage-1.md"
 - "./homepage.md"
 - index.md
