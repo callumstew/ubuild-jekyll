@@ -131,6 +131,5 @@ menu:
   main:
     weight: 3
     title: draft
-published: false
 
 ---
