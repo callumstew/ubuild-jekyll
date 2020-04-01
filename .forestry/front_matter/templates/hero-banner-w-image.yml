@@ -27,13 +27,15 @@ fields:
     wysiwyg: true
     schema:
       format: html
-- type: textarea
-  name: content
-  label: Content
+- name: content
+  type: textarea
+  default: ''
   config:
-    wysiwyg: true
+    required: false
+    wysiwyg: false
     schema:
       format: html
+  label: Content
 - type: field_group
   name: cta
   label: Call-to-action
