@@ -31,7 +31,7 @@ fields:
   name: content
   label: Content
   config:
-    wysiwyg: true
+    wysiwyg: false
     schema:
       format: html-blocks
 - type: field_group
