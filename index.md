@@ -57,7 +57,7 @@ page_sections:
   block: feature-1
   media_alignment: Left
   media:
-    image: "/uploads/2020/04/01/symptoms-shot.png"
+    image: "/uploads/2020/04/01/scale-symp-anim.gif"
     alt_text: ''
   headline: ''
   content: ''
