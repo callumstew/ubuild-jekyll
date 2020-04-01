@@ -19,7 +19,7 @@ page_sections:
   content: |
     Welcome to the <b>CoViD Collab</b>!
 
-    <p>This is a citizen science research project calling on the donation of data from you to help in the fight against SARS-Coronavirus-2 (CoViD-19).</p>
+    <p>This is a citizen science research project calling on the donation of data from you to help in the fight against CoViD-19 and learn more about how the outbreak affects people's mental health.</p>
 
     <p>To do this we need data only you can provide! Let's collaborate to beat the Coronavirus!</p>
   cta:
@@ -54,7 +54,7 @@ page_sections:
       to just what extent it is affecting people's mood and causing stress.
   col_3:
     headline: Symptoms
-    content: ''
+    content: 'Our knowledge of Covid-19 symptomology '
 - template: content-feature
   block: feature-1
   media_alignment: Left
