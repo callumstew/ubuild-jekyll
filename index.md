@@ -16,12 +16,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: CoViD<br><strong>Collab</strong><br>
-  content: |-
-    Welcome to the <b>CoViD Collab</b>!
-
-    <p>This is a citizen science research project calling on the donation of data from you to help in the fight against SARS-Coronavirus-2 (CoViD-19).</p>
-
-    <p>To do this we need Data only you can provide! Let's collaborate to beat the Coronavirus!</p>
+  content: "{% include_relative _includes/test.md %}"
   cta:
     enabled: true
     url: https://google.com
@@ -84,21 +79,8 @@ page_sections:
   media:
     image: "/uploads/2020/03/27/covid-sequence-1.png"
     alt_text: ''
-- template: detail-content
-  block: text-1
-  headline: Sign up to Covid Collab!
-  content: Please sign up to help us study CoViD19 and how it affects the population
-- template: 2-column-text
-  block: two-column-1
-  col_1:
-    headline: ''
-    content: ''
-  col_2:
-    headline: ''
-    content: ''
 - template: content-feature
   block: feature-2
-  media_alignment: Right￼
   headline: Retrospective Data
   content: "<strong>Were you ill or diagnosed in the past? This is still useful!</strong>
     If you have a Fitbit and were previously ill, when you sign up you can still donate
@@ -107,18 +89,7 @@ page_sections:
   media:
     image: "/uploads/2020/03/27/covid-sequence-2.png"
     alt_text: ''
-- template: detail-content
-  block: text-1
-  headline: Contribution after you were ill.
-  content: You can still take part in Covid Collab.
-- template: 2-column-text
-  block: two-column-1
-  col_1:
-    headline: ''
-    content: ''
-  col_2:
-    headline: ''
-    content: ''
+  media_alignment: ''
 - template: 4-column-footer
   block: footer-2
   col_2: <a href="/privacy_policy.html" title="Privacy Policy">Privacy Policy</a>
