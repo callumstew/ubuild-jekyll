@@ -33,7 +33,7 @@ page_sections:
     enabled: true
     url: https://www.apple.com
     button_text: Download for iOS
-  layout: "{ .forestry/snippets/intro.snippet }"
+  layout: "{{ .forestry/snippets/intro.snippet }}"
 - template: content-feature
   block: feature-1
   media_alignment: Right
