@@ -46,7 +46,10 @@ page_sections:
     is brough to you by the PHIDatalab team, a research group at the Institute of
     Psychiatry, Psychology &amp; Neuroscience in King's College London. We have previous
     and ongoing experience in remotely monitoring disease and mental health through
-    our work in <a href="https://radar-base.org/" title="RADAR-base">RADAR-base</a>.
+    our work in <a href="https://radar-base.org/" title="RADAR-base">RADAR-base</a>.<br><br>By
+    updating us on your mood, any Covid-like symptoms, and optionally providing us
+    access to your movement and Fitbit data, we hope to better understand how we are
+    all being affected by the ongoing unprecedented situation.
 - template: 3-column-text
   block: three-column-1
   col_1:
