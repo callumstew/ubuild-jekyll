@@ -104,6 +104,10 @@ page_sections:
   image: "/uploads/2020/03/27/corona.png"
   col_3: ''
   col_4: ''
+- template: detail-content
+  block: text-1
+  content: <p><img src="/uploads/2020/04/01/scale-symp-anim.gif"></p>
+  headline: ''
 block: footer-2
 content: Privacy Policy
 col_2: Privacy Policy
