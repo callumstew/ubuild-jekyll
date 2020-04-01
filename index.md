@@ -45,13 +45,15 @@ page_sections:
 - template: 3-column-text
   block: three-column-1
   col_1:
-    headline: ''
+    headline: Spread
     content: ''
   col_2:
-    headline: ''
-    content: ''
+    headline: Psychological imact
+    content: Many people are already feeling a large psychological impact from the
+      outbreak and the measures being required to contain it. We would like to understand
+      to just what extent it is affecting people's mood and causing stress.
   col_3:
-    headline: ''
+    headline: Symptoms
     content: ''
 - template: content-feature
   block: feature-1
@@ -59,40 +61,23 @@ page_sections:
   media:
     image: "/uploads/2020/04/01/scale-symp-anim.gif"
     alt_text: ''
-  headline: ''
-  content: ''
+  headline: How to participate
+  content: "<strong>How do you participate?</strong> <br>Download our apps and donate
+    a small amount of time in filling questionnaires Optionally Providing some phone
+    data such as location (this is only used for our scientific work see our privacy
+    policy and data use? If you have a Fitbit device then we’d like you to wear it
+    and provide us with a feed of your heart rate, activity step count and sleep.
+    <br> <br> And... <br><br> You can still contribute by completing our questionnaires
+    via the App or help us share this online (twitter: @covid_collab, #covid_collab).
+    It is essential we are able to collect this data as early as possible before large
+    numbers of people people get infected by the virus."
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: If you are an owner of a Fitbit Device and a Smartphone then you are eligible
-    to participate!
-  content: "<strong>Some questions you'd be helping answer</strong> <ul> <li>How social
-    distancing measures affect the transmission rate (inside families and the general
-    population) of the virus in normal the population?</li> <li>What are the symptoms?
-    Are there any early predictors of infection (e.g. heart rate, activity, respiration,
-    sleep, loss of sense of smell)? And how reliable are these?</li> <li>How contagious
-    the virus is?</li> <li>What factors affect how the CoViD-19 disease behaves? Are
-    there any behavioural (e.g. fatigue) or physiological factors that determine progression
-    or mild/moderate/severe outcomes?</li> </ul>"
+  headline: Own a Fitbit?
+  content: ''
   media:
     image: "/uploads/2020/03/27/fitbit-data-512.png"
-    alt_text: ''
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: Don't own a Fitbit?
-  content: "<strong>How do you participate?</strong> <br> <li>Download our apps and
-    donate a small amount of time in filling questionnaires Optionally</li> <li>Providing
-    some phone data such as location (this is only used for our scientific work see
-    our privacy policy and data use?</li> <li>If you have a Fitbit device then we’d
-    like you to wear it and provide us with a feed of your heart rate, activity step
-    count and sleep.</li> <br> <br> And... <br> <bt> <p>You can still contribute by
-    completing our questionnaires via the App or help us share this online (twitter:
-    @covid_collab, #covid_collab). It is essential we are able to collect this data
-    as early as possible before large numbers of people people get infected by the
-    virus.</pr>"
-  media:
-    image: "/uploads/2020/03/27/covid11.png"
     alt_text: ''
 - template: content-feature
   block: feature-2
