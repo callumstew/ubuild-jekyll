@@ -62,18 +62,18 @@ page_sections:
     image: "/uploads/2020/04/01/scale-symp-anim.gif"
     alt_text: ''
   headline: How to participate
-  content: "<strong>How do you participate?</strong> <br>Download our app and spend
-    a small amount of time reporting your current symptoms, how you are feeling, and
-    let us know if you are diagnosed.<br><br>Optionally, you can also fill in more
-    in-depth questionnaires every two weeks which will give us a much more indepth
-    understanding of your mood. You may also provide us with location data; how much
-    you are able to move around and how much time you are spending at home may be
-    important to understanding any impact on mental health. Your location data is
-    very sensitive - only derived values, such as how much time is spent outside,
-    linked to an anonymous ID will be available to analysts.<br><br>If you have a
-    Fitbit device then we’d like you to wear it and provide us with a feed of your
-    heart rate, activity step count and sleep. This may help us understand symptology
-    and provide early warning signs, but is not a requirement for taking part!<br> "
+  content: 'Download our app and spend a small amount of time reporting your current
+    symptoms, how you are feeling, and let us know if you are diagnosed.<br><br>Optionally,
+    you can also fill in more in-depth questionnaires every two weeks which will give
+    us a much more indepth understanding of your mood. You may also provide us with
+    location data; how much you are able to move around and how much time you are
+    spending at home may be important to understanding any impact on mental health.
+    Your location data is very sensitive - only derived values, such as how much time
+    is spent outside, linked to an anonymous ID will be available to analysts.<br><br>If
+    you have a Fitbit device then we’d like you to wear it and provide us with a feed
+    of your heart rate, activity step count and sleep. This may help us understand
+    symptology and provide early warning signs, but is not a requirement for taking
+    part!<br> '
 - template: content-feature
   block: feature-1
   media_alignment: Right
