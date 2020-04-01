@@ -16,7 +16,12 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: CoViD<br><strong>Collab</strong><br>
-  content: ''
+  content: |-
+    Welcome to the <b>CoViD Collab</b>!
+
+    <p>This is a citizen science research project calling on the donation of data from you to help in the fight against SARS-Coronavirus-2 (CoViD-19).</p>
+
+    <p>To do this we need Data only you can provide! Let's collaborate to beat the Coronavirus!</p>
   cta:
     enabled: true
     url: https://google.com
