@@ -38,6 +38,10 @@ page_sections:
     enabled: true
     url: https://www.apple.com
     button_text: Download for iOS
+- template: 1-column-text
+  block: one-column-1
+  headline: "<a id='about'>About</a>"
+  content: About study
 - template: content-feature
   block: feature-1
   media_alignment: Right
