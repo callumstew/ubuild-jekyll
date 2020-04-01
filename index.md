@@ -88,8 +88,8 @@ page_sections:
   headline: Own a Fitbit?
   content: ''
   media:
-    image: "/uploads/2020/03/27/fitbit-data-512.png"
-    alt_text: ''
+    image: "/uploads/2020/04/01/28266998101_3cbe8c063a_c.jpg"
+    alt_text: Fitbit photo by Andri Koolme (https://www.flickr.com/photos/andrikoolme/)
 - template: content-feature
   block: feature-2
   media_alignment: Right
