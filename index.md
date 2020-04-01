@@ -16,7 +16,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: CoViD<br><strong>Collab</strong><br>
-  content: "{ include .forestry/snippets/intro.snippet }"
+  content: ''
   cta:
     enabled: true
     url: https://google.com
