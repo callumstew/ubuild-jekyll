@@ -41,7 +41,12 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: "<a id='about'>About</a>"
-  content: About study
+  content: Covid Collab is a study which hopes to investigate the ongoing coronavirus
+    outbreak - both the disease itself and the impact it is having on our lives. It
+    is brough to you by the PHIDatalab team, a research group at the Institute of
+    Psychiatry, Psychology &amp; Neuroscience in King's College London. We have previous
+    and ongoing experience in remotely monitoring disease and mental health through
+    our work in <a href="https://radar-base.org/" title="RADAR-base">RADAR-base</a>.
 - template: 3-column-text
   block: three-column-1
   col_1:
