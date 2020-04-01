@@ -89,7 +89,7 @@ page_sections:
     you go forward in time, this information is critical to providing context to the
     data you donate to us. <br>"
   media:
-    image: "/uploads/2020/03/27/covid-sequence-1.png"
+    image: "/uploads/2020/04/01/covid-sequence-1.png"
     alt_text: ''
 - template: content-feature
   block: feature-2
@@ -99,7 +99,7 @@ page_sections:
     the data from that previous time! This will enable our data scientists to study
     effects of the virus on your health. <br>"
   media:
-    image: "/uploads/2020/03/27/covid-sequence-2.png"
+    image: "/uploads/2020/04/01/covid-sequence-2.png"
     alt_text: ''
   media_alignment: ''
 - template: 4-column-footer
