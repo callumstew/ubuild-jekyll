@@ -27,7 +27,7 @@ page_sections:
     url: https://google.com
     button_text: Download for Android
   image:
-    image: "/uploads/2020/04/01/symptoms-shot.png"
+    image: "/uploads/2020/04/01/covid_app_fitbit_sym.png"
     alt_text: Covid Collab App and Fitbit
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
   call_to_action_2:
