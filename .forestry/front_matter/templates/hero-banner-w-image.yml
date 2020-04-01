@@ -28,9 +28,13 @@ fields:
     schema:
       format: html
 - name: content
-  type: include
-  config: {}
-  template: default
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
   label: Content
 - type: field_group
   name: cta
