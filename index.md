@@ -16,15 +16,16 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: CoViD<br><strong>Collab</strong><br>
-  content: |-
-    <p>Welcome to the <strong>CoViD Collab</strong>! This is a citizen science research project calling on the donation of data from you to help in the fight against SARS-Coronavirus-2 (CoViD-19).<br><br>To do this we need Data only you can provide!</p>
-    <p>Let's collaborate to beat the Coronavirus!</p>
+  content: Welcome to the <strong>CoViD Collab</strong>! This is a citizen science
+    research project calling on the donation of data from you to help in the fight
+    against SARS-Coronavirus-2 (CoViD-19).<br><br>To do this we need Data only you
+    can provide! Let's collaborate to beat the Coronavirus!
   cta:
     enabled: true
     url: https://google.com
     button_text: Download for Android
   image:
-    image: "/uploads/2020/03/27/covid_app_fitbit.png"
+    image: "/uploads/2020/04/01/symptoms-shot.png"
     alt_text: Covid Collab App and Fitbit
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
   call_to_action_2:
