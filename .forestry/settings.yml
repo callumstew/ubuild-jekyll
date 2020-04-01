@@ -8,8 +8,8 @@ sections:
   path: ".forestry/snippets"
   label: Snippets
   create: documents
-  match: "**/*"
-  new_doc_ext: snippet
+  match: "*"
+  new_doc_ext: ".snippet"
 - type: jekyll-posts
   label: Posts
   create: all
