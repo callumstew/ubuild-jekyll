@@ -69,7 +69,7 @@ page_sections:
     location data; how much you are able to move around and how much time you are
     spending at home may be important to understanding any impact on mental health.
     Your location data is very sensitive - only derived values, such as how much time
-    is spent outside, linked to an anonymous ID will be available to analysts.<br><br>If
+    is spent outside, linked to an anonymous ID will be available to researchers.<br><br>If
     you have a Fitbit device then we’d like you to wear it and provide us with a feed
     of your heart rate, activity step count and sleep. This may help us understand
     symptology and provide early warning signs, but is not a requirement for taking
