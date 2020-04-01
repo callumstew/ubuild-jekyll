@@ -16,7 +16,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: CoViD<br><strong>Collab</strong><br>
-  content: "{% include_relative _includes/test.md %}"
+  content: {% include_relative _includes/test.md %}
   cta:
     enabled: true
     url: https://google.com
@@ -33,7 +33,6 @@ page_sections:
     enabled: true
     url: https://www.apple.com
     button_text: Download for iOS
-  layout: "{{ .forestry/snippets/intro.snippet }}"
 - template: content-feature
   block: feature-1
   media_alignment: Right
