@@ -105,12 +105,9 @@ page_sections:
     image: "/uploads/2020/04/01/covid-sequence-2.png"
     alt_text: ''
   media_alignment: ''
-- template: 4-column-footer
-  block: footer-2
-  col_2: <a href="/privacy_policy.html" title="Privacy Policy">Privacy Policy</a>
-  image: "/uploads/2020/03/27/corona.png"
-  col_3: ''
-  col_4: ''
+- template: simple-footer
+  block: footer-1
+  content: <a href="/privacy_policy.html" title="Privacy Policy">Privacy Policy</a>
 block: footer-2
 content: Privacy Policy
 col_2: Privacy Policy
