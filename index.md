@@ -42,6 +42,25 @@ page_sections:
   block: one-column-1
   headline: "<a id='about'>About</a>"
   content: About study
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    headline: ''
+    content: ''
+  col_2:
+    headline: ''
+    content: ''
+  col_3:
+    headline: ''
+    content: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  media:
+    image: "/uploads/2020/04/01/scale-symp-anim.gif"
+    alt_text: ''
+  headline: ''
+  content: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -104,10 +123,6 @@ page_sections:
   image: "/uploads/2020/03/27/corona.png"
   col_3: ''
   col_4: ''
-- template: detail-content
-  block: text-1
-  content: <p><img src="/uploads/2020/04/01/scale-symp-anim.gif"></p>
-  headline: ''
 block: footer-2
 content: Privacy Policy
 col_2: Privacy Policy
