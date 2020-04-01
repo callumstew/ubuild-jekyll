@@ -103,4 +103,3 @@ col_4: ''
 image: ''
 
 ---
-foo bar
