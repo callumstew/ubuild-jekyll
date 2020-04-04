@@ -12,7 +12,7 @@ page_sections:
   - link: "#about"
     link_text: About
   - link: https://phidatalab.org
-    link_text: Team
+    link_text: PHIDL
 - template: hero-banner-w-image
   block: hero-2
   headline: CoViD<br><strong>Collab</strong><br>
@@ -21,13 +21,13 @@ page_sections:
 
     <p>This is a citizen science research project calling on the donation of data from you to help in the fight against CoViD-19 and learn more about how the outbreak affects people's mental health.</p>
 
-    <p>To do this we need data only you can provide! Let's collaborate to beat the Coronavirus!</p>
+    <p><strong>To do this we need data only you can provide! Let's collaborate to beat the Coronavirus!</strong></p>
   cta:
     enabled: true
     url: https://google.com
     button_text: Download for Android
   image:
-    image: "/uploads/2020/04/01/covid_app_fitbit_sym.png"
+    image: "/uploads/2020/04/01/covid_app_fitbit_sym2.png"
     alt_text: Covid Collab App and Fitbit
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
   call_to_action_2:
@@ -43,7 +43,7 @@ page_sections:
   headline: "<a id='about'>About</a>"
   content: Covid Collab is a study which hopes to investigate the ongoing coronavirus
     outbreak - both the disease itself and the impact it is having on our lives. It
-    is brough to you by the PHIDatalab team, a research group at the Institute of
+    is brought to you by the PHIDatalab team, a research group at the Institute of
     Psychiatry, Psychology &amp; Neuroscience in King's College London. We have previous
     and ongoing experience in remotely monitoring disease and mental health through
     our work in <a href="https://radar-base.org/" title="RADAR-base">RADAR-base</a>.<br><br>By
@@ -53,16 +53,21 @@ page_sections:
 - template: 3-column-text
   block: three-column-1
   col_1:
-    headline: Spread
-    content: ''
+    headline: Some questions you'd be helping answer
+    content: 'i) How social distancing measures affect the transmission rate (inside families and the general population) of the virus in normal the population?
+    What are the symptoms?</br></br>
+    ii) Are there any early predictors of infection (e.g. heart rate, activity, respiration, sleep, loss of sense of smell)? And how reliable these are?</br></br>
+    iii) How contagious the virus is?</br></br>
+    iv) What factors affect how the CoViD-19 disease behaves? Are there any behavioural (e.g. fatigue) or physiological factors that determine progression or mild/moderate/severe outcomes? </br></br>
+      <a href="/About.html">see here for more...</a>'
   col_2:
-    headline: Psychological imact
+    headline: Psychological impact
     content: Many people are already feeling a large psychological impact from the
       outbreak and the measures being required to contain it. We would like to understand
       to just what extent it is affecting people's mood and causing stress.
   col_3:
     headline: Symptoms
-    content: 'Our knowledge of Covid-19 symptomology '
+    content: 'Our knowledge of Covid-19 symptomology is presently limited. Your data will help us test our theories and about what symptoms are important.'
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -96,8 +101,7 @@ page_sections:
   headline: Prospective Data
   content: "<strong>Sign up to the study before you were ill</strong> By signing up
     to our study before any sign of illness gives us the most useful data. In this
-    way we are able to collect data and have you annotate it with questionnaires as
-    you go forward in time, this information is critical to providing context to the
+    way we are able to collect data and while you provide context with your questionnaire answers. This information labelling of the data is very important to our analysis.
     data you donate to us. <br>"
   media:
     image: "/uploads/2020/04/01/covid-sequence-1.png"
@@ -113,14 +117,19 @@ page_sections:
     image: "/uploads/2020/04/01/covid-sequence-2.png"
     alt_text: ''
   media_alignment: ''
-- template: simple-footer
-  block: footer-1
-  content: <a href="/privacy_policy.html" title="Privacy Policy">Privacy Policy</a>
-block: footer-2
-content: Privacy Policy
-col_2: Privacy Policy
-col_3: ''
-col_4: ''
-image: ''
+- template: full-width-media-element
+  block: media-1
+  caption: "<h3>Core Team</h3>"
+  image: '/uploads/2020/04/01/core-team.png'
+- template: full-width-media-element
+  block: media-1
+  caption: ""
+  image: '/uploads/2020/04/01/affiliations.png'
+- template: 4-column-Footer
+  block: footer-2
+  image: '/uploads/2020/04/01/covid_app_fitbit_sym2.png'
+  col_2: '<a href="/privacy_policy.html" title="Privacy Policy">Privacy Policy</a>'
+  col_3: 'Contact Us'
+  col_4: 'FAQs and Information'
 
 ---
