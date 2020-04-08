@@ -100,10 +100,9 @@ page_sections:
   block: feature-2
   media_alignment: Right
   headline: Prospective Data
-  content: "<strong>Sign up to the study before you were ill</strong> By signing up
-    to our study before any sign of illness gives us the most useful data. In this
+  content: "<strong>Sign up to the study before you were ill. </strong> Signing up
+    to our study before any sign of illness will gives us the most useful data. In this
     way we are able to collect data and while you provide context with your questionnaire answers. This information labelling of the data is very important to our analysis.
-    data you donate to us.
     You can also help by publicising this study if you know someone who might be interested in participating.<br>"
   media:
     image: "/uploads/2020/04/01/covid-sequence-1.png"
@@ -113,8 +112,7 @@ page_sections:
   headline: Retrospective Data
   content: "<strong>Were you ill or diagnosed in the past? This is still useful!</strong>
     If you have a Fitbit and were previously ill, when you sign up you can still donate
-    the data from that previous time! This will enable our data scientists to study
-    effects of the virus on your health. <br>"
+    the data from that previous time! Our data scientists are still able to study this data.<br>"
   media:
     image: "/uploads/2020/04/01/covid-sequence-2.png"
     alt_text: ''
@@ -130,7 +128,7 @@ page_sections:
 - template: 4-column-Footer
   block: footer-2
   image: '/uploads/2020/04/01/covid_app_fitbit_sym2.png'
-  col_2: '<a href="/privacy_policy.html" title="Privacy Policy">Privacy Policy</a>'
+  col_2: '<a href="/privacy_policy.html" title="Privacy Policy">Privacy Policy</a></br><a href="/disclaimer.html" title="Disclaimer">Disclaimer</a>'
   col_3: '<a href="/contact_us.html">Contact Us</a>'
   col_4: '<a href="/FAQ.html">FAQs and Information</a>'
 
