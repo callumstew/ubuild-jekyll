@@ -19,7 +19,7 @@ page_sections:
   content: |
     Welcome to the <b>CoViD Collab</b>!
 
-    <p>This is a citizen science research project calling on the donation of data from you to help in the fight against CoViD-19 and learn more about how the outbreak affects people's mental health.</p>
+    <p>This is a <b>citizen science</b> research project calling on the donation of data from you to help in the fight against CoViD-19 and learn more about how the outbreak affects people's mental health.</p>
 
     <p><strong>To do this we need data only you can provide! Let's collaborate to beat the Coronavirus!</strong></p>
   cta:
@@ -54,9 +54,9 @@ page_sections:
   block: three-column-1
   col_1:
     headline: Some questions you'd be helping answer
-    content: 'i) How social distancing measures affect the transmission rate (inside families and the general population) of the virus in normal the population?
+    content: 'i) How social distancing measures affect the transmission rate (inside families and the general population) of the virus in the normal population?
     What are the symptoms?</br></br>
-    ii) Are there any early predictors of infection (e.g. heart rate, activity, respiration, sleep, loss of sense of smell)? And how reliable these are?</br></br>
+    ii) Are there any early predictors of infection (e.g. heart rate, activity, respiration, sleep, loss of sense of smell)? And how reliable are these?</br></br>
     iii) How contagious the virus is?</br></br>
     iv) What factors affect how the CoViD-19 disease behaves? Are there any behavioural (e.g. fatigue) or physiological factors that determine progression or mild/moderate/severe outcomes? </br></br>
       <a href="/About.html">see here for more...</a>'
@@ -87,10 +87,11 @@ page_sections:
     of your heart rate, activity step count and sleep. This may help us understand
     symptology and provide early warning signs, but is not a requirement for taking
     part!<br>
+    <a href=/register_info.html>Registration guide...</a>
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: Own a Fitbit?
+  headline: Own a Fitbit or know someone who does?
   content: ''
   media:
     image: "/uploads/2020/04/01/28266998101_3cbe8c063a_c.jpg"
@@ -102,7 +103,8 @@ page_sections:
   content: "<strong>Sign up to the study before you were ill</strong> By signing up
     to our study before any sign of illness gives us the most useful data. In this
     way we are able to collect data and while you provide context with your questionnaire answers. This information labelling of the data is very important to our analysis.
-    data you donate to us. <br>"
+    data you donate to us.
+    You can also help by publicising this study if you know someone who might be interested in participating.<br>"
   media:
     image: "/uploads/2020/04/01/covid-sequence-1.png"
     alt_text: ''
@@ -129,7 +131,7 @@ page_sections:
   block: footer-2
   image: '/uploads/2020/04/01/covid_app_fitbit_sym2.png'
   col_2: '<a href="/privacy_policy.html" title="Privacy Policy">Privacy Policy</a>'
-  col_3: 'Contact Us'
-  col_4: 'FAQs and Information'
+  col_3: '<a href="/contact_us.html">Contact Us</a>'
+  col_4: '<a href="/FAQ.html">FAQs and Information</a>'
 
 ---

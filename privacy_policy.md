@@ -8,7 +8,7 @@ menu:
 ---
 # CoViD Collab Privacy Policy
 
-CoViD collab is developed by the PHIDatalab group which is a research group at King's College London. This privacy policy will explain how our organization uses the personal data we collect from you when you use our application and website.-
+CoViD collab is developed by the RADAR-base Team at Precision Health Informatics Data Lab (PHIDL / PHIDataLab) which is a research group at King's College London. This privacy policy will explain how our organization uses the personal data we collect from you when you use our application and website.-
 
 ## Topics:
 
@@ -76,7 +76,7 @@ CoViD Collab would like to make sure you are fully aware of all of your data pro
 
 **The right to data portability** – You have the right to request that CoViD Collab transfer the data that we have collected to another organization, or directly to you, under certain conditions.
 
-If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us at our email: [callum.stewart@kcl.ac.uk](callum.stewart@kcl.ac.uk "callum.stewart@kcl.ac.uk")
+If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us at our email: [covid-collab@kcl.ac.uk](covid-collab@kcl.ac.uk "covid-collab@kcl.ac.uk")
 
 Call us at: +44 (0)20 7848 0951
 
@@ -129,12 +129,12 @@ CoViD Collab keeps its privacy policy under regular review and places any update
 
 If you have any questions about CoViD Collab’s privacy policy, the data we hold on you, or you would like to exercise one of your data protection rights, please do not hesitate to contact us.
 
-Email us at: [callum.stewart@kcl.ac.uk](callum.stewart@kcl.ac.uk "callum.stewart@kcl.ac.uk")
+Email us at: [covid-collab@kcl.ac.uk](covid-collab@kcl.ac.uk "covid-collab@kcl.ac.uk")
 
-Call us at: +44 (0)20 7848 0951
+Call us at: +44 (0)20 7848 0951 or +44 (0)20 7848 0924
 
 Or write to us:
-> PHIDatalab
+> PHIDatalab Covid Collab
 >
 > Department of Biostatistics & Health Informatics
 >
