@@ -5,7 +5,7 @@ date: 2020-03-22T22:00:00.000+00:00
 page_sections:
 - template: navigation-header
   block: header-1
-  logo: "/uploads/2020/03/27/corona.png"
+  logo: "/uploads/2020/04/08/logo2bluebg_340x.png"
   navigation:
   - link: "/"
     link_text: Home
@@ -50,6 +50,10 @@ page_sections:
     updating us on your mood, any Covid-like symptoms, and optionally providing us
     access to your movement and Fitbit data, we hope to better understand how we are
     all being affected by the ongoing unprecedented situation.
+- template: full-width-media-element
+  block: media-1
+  caption: ""
+  image: '/uploads/2020/04/08/logo1whitebg_wide.png'
 - template: 3-column-text
   block: three-column-1
   col_1:
@@ -86,7 +90,7 @@ page_sections:
     you have a Fitbit device then we’d like you to wear it and provide us with a feed
     of your heart rate, activity step count and sleep. This may help us understand
     symptology and provide early warning signs, but is not a requirement for taking
-    part!<br>
+    part!  <br>
     <a href=/register_info.html>Registration guide...</a>
 - template: content-feature
   block: feature-1
@@ -128,7 +132,7 @@ page_sections:
 - template: 4-column-Footer
   block: footer-2
   image: '/uploads/2020/04/01/covid_app_fitbit_sym2.png'
-  col_2: '<a href="/privacy_policy.html" title="Privacy Policy">Privacy Policy</a></br><a href="/disclaimer.html" title="Disclaimer">Disclaimer</a>'
+  col_2: '<a href="/privacy_policy.html" title="Privacy Policy">Privacy Policy</a></br></br><a href="/disclaimer.html" title="Disclaimer">Disclaimer</a>'
   col_3: '<a href="/contact_us.html">Contact Us</a>'
   col_4: '<a href="/FAQ.html">FAQs and Information</a>'
 
