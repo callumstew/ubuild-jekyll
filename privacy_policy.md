@@ -64,7 +64,7 @@ CoViD Collab securely stores your data on the Google Cloud platform and on encry
 
 CoViD Collab would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:
 
-**The right to access** – You have the right to request CoViD Collab for copies of your personal data. We may charge you a small fee for this service.
+**The right to access** – You have the right to request CoViD Collab for copies of your personal data.
 
 **The right to rectification** – You have the right to request that CoViD Collab correct any information you believe is inaccurate. You also have the right to request CoViD Collab to complete the information you believe is incomplete.
 

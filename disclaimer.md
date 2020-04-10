@@ -3,7 +3,7 @@ layout: default
 menu:
   main:
     weight: 2
-    title: Privacy Policy
+    title: Disclaimer
 
 ---
 

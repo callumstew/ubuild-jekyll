@@ -3,8 +3,7 @@ layout: default
 menu:
   main:
     weight: 2
-    title: FAQs and Information
-
+    title: Privacy Policy
 ---
 # Frequently Asked Questions
 
@@ -32,7 +31,7 @@ No you cannot participate if you are younger than 18 years old. The current ethi
 Yes. The app will send you a notification to indicate you should complete the PHQ8, GAD7 and Symptoms questionnaires (these are done every 2 weeks). The CoViD-19 Symptoms questionnaire can be however filled in at anytime and similarly the CoViD-19 Diagnosis questionnaire -- you do not need to wait to be notified, if you need to complete these, do so at earliest convenience.
 
 ### Are there other studies associated with Covid Collab that I can participate in?
-Yes. We have asked for your consent to be contacted, if you responded yes to this question in the registration process we'll contact you with information about sub-studies that you are eligible for, you are freely open to join these, or not, and and your choice has no impact on your participation in the main study.
+Yes. We have asked for your consent to be contacted, if you responded yes to this question in the registration process we'll contact you with information about sub-studies that you are eligible for, you are freely open to join these, or not, and your choice has no impact on your participation in the main study.
 
 ### Will I be able to see the results of the study?
 We are working on generating a visualisation of the aggregate data. We will also be publishing output from the data as soon as we can. Further information about this will be disseminated on this portal in due course.
@@ -66,7 +65,7 @@ We need your email address for two reasons, i) so we can verify who you are in t
 
 
 ## Other
-### I spotted a issue or bug I'd like to regport
+### I spotted an issue or bug I'd like to regport
 Yes, while we have a lot of experience running remote monitoring, this project was put together very quickly and so we may have the odd issue from time to time. If you find a bug please Email:
 email: [covid-collab@kcl.ac.uk](covid-collab@kcl.ac.uk "covid-collab@kcl.ac.uk")
 and

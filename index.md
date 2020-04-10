@@ -53,7 +53,7 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   caption: ""
-  image: '/uploads/2020/04/08/logo1whitebg_wide.png'
+  image: '/uploads/2020/04/08/logo1whitebg2.png'
 - template: 3-column-text
   block: three-column-1
   col_1:
