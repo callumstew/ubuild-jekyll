@@ -54,14 +54,10 @@ page_sections:
   block: media-1
   caption: ""
   image: '/uploads/2020/04/01/affiliations.png'
-- template: full-width-media-element
-  block: media-1
-  caption: ""
-  image: '/uploads/2020/04/08/logo1whitebg2.png'
 - template: 3-column-text
   block: three-column-1
   col_1:
-    headline: Some questions you'd be helping answer
+    headline: You'll be helping to answer...
     content: 'i) How social distancing measures affect the transmission rate (inside families and the general population) of the virus in the normal population?
     What are the symptoms?</br></br>
     ii) Are there any early predictors of infection (e.g. heart rate, activity, respiration, sleep, loss of sense of smell)? And how reliable are these?</br></br>
@@ -74,7 +70,11 @@ page_sections:
       to just what extent it is affecting people's mood and causing stress.
   col_3:
     headline: Symptoms
-    content: 'Our knowledge of CoViD-19 symptomology is presently limited. Your data will help us test our theories and about what symptoms are important.'
+    content: 'Our knowledge of CoViD-19 symptomatology is presently limited. Your data will help us test our theories and about what symptoms are important.'
+- template: full-width-media-element
+  block: media-1
+  caption: ""
+  image: '/uploads/2020/04/08/logo1whitebg2.png'
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -92,7 +92,7 @@ page_sections:
     is spent outside, linked to an anonymous ID will be available to researchers.<br><br>If
     you have a Fitbit device then we’d like you to wear it and provide us with a feed
     of your heart rate, activity step count and sleep. This may help us understand
-    symptology and provide early warning signs, but is not a requirement for taking
+    symptomatology and provide early warning signs, but is not a requirement for taking
     part!  <br>
     <a href=/register_info.html>Registration guide...</a>
 - template: content-feature
@@ -133,9 +133,9 @@ page_sections:
   col_1:
     headline: "Dr Amos Folarin"
     content: '<img src="/uploads/2020/04/08/Amos_Folarin_Cirx250.png"><br><em><p>“I’m particularly interested in how we can use digital signals from wearable devices and smartphones to track respiratory disease (such as CoViD-19) in the population. One idea we are keen to test is the viability of identifying signals of respiratory illness and even the pre-symptomatic stages of illness.</p>
-
+    <br>
     <p>Your heart and lungs are part of the machinery responsible getting oxygen around your body, under your healthy baseline, an activity, like taking a walk, will result in your lungs and heart having to work at a level normal to you; however, when you have a respiratory infection your lungs don’t work as well, and consequently, for the same level of activity, your heart will have to work harder. So by having a record of your baseline heart rates for given activity levels when healthy, and your heart rates for the equivalent activity levels when ill, we are looking for a difference in the activity-to-heart rate ratios. Fortunately, this data is exactly what a wearable device like Fitbit provides. </p>
-
+    <br>
     <p>This is something of a simplification, but it broadly captures the idea. By studying data from a lot of people we hope to identify subtle differences, especially once widespread testing for CoViD-19 comes into place - it will be very interesting to see if we can differentiate the signal of other respiratory infections like colds and flu from CoViD-19”
     </em><br></p>'
   col_2:
