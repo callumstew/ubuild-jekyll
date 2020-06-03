@@ -16,6 +16,9 @@ menu:
  -- Dr Amos Folarin![Dr Amos Folarin](uploads/2020/04/08/Amos_Folarin_Cirx250.png)
 
 
+<br><br><br>
+
+
 >"Both the Covid-19 outbreak itself and the social measures required to contain the spread are unprecedented in our lives. I'm interested in what impact it is having on our psychological well-being, and what we can do to limit any negative impacts and who might be most at risk of them. For example, we know that regular exercise and being in nature can reduce stress, anxiety, and depression. Now that there are limits on our freedom to go outside, is the permission to exercise once per day afforded to people in some countries used, useful, adequate or inessential? How long are people able to socially isolate before any ill effects emerge?"
 
 -- Callum Stewart  ![Callum Stewart](uploads/2020/04/08/Callum_Stewart_Cirx250.png)

@@ -47,7 +47,7 @@ page_sections:
     Psychiatry, Psychology &amp; Neuroscience in King's College London. We have previous
     and ongoing experience in remotely monitoring disease and mental health through
     our work in <a href="https://radar-base.org/" title="RADAR-base">RADAR-base</a>.<br><br>By
-    updating us on your mood, any Covid-like symptoms, and optionally providing us
+    updating us on your mood, any CoViD-19-like symptoms, and optionally providing us
     access to your movement and Fitbit data, we hope to better understand how we are
     all being affected by the ongoing unprecedented situation.
 - template: full-width-media-element
@@ -62,8 +62,7 @@ page_sections:
     What are the symptoms?</br></br>
     ii) Are there any early predictors of infection (e.g. heart rate, activity, respiration, sleep, loss of sense of smell)? And how reliable are these?</br></br>
     iii) How contagious the virus is?</br></br>
-    iv) What factors affect how the CoViD-19 disease behaves? Are there any behavioural (e.g. fatigue) or physiological factors that determine progression or mild/moderate/severe outcomes? </br></br>
-      <a href="/About.html">see here for more...</a>'
+    iv) What factors affect how the CoViD-19 disease behaves? Are there any behavioural (e.g. fatigue) or physiological factors that determine progression or mild/moderate/severe outcomes? </br></br>'
   col_2:
     headline: Psychological impact
     content: Many people are already feeling a large psychological impact from the
@@ -71,7 +70,7 @@ page_sections:
       to just what extent it is affecting people's mood and causing stress.
   col_3:
     headline: Symptoms
-    content: 'Our knowledge of Covid-19 symptomology is presently limited. Your data will help us test our theories and about what symptoms are important.'
+    content: 'Our knowledge of CoViD-19 symptomology is presently limited. Your data will help us test our theories and about what symptoms are important.'
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -104,8 +103,8 @@ page_sections:
   block: feature-2
   media_alignment: Right
   headline: Prospective Data
-  content: "<strong>Sign up to the study before you were ill. </strong> Signing up
-    to our study before any sign of illness will gives us the most useful data. In this
+  content: "<strong>Sign up to the study before you are ill or diagnosed with CoViD-19. </strong> Signing up
+    to our study before any sign of illness will give us the most useful data. In this
     way we are able to collect data and while you provide context with your questionnaire answers. This information labelling of the data is very important to our analysis.
     You can also help by publicising this study if you know someone who might be interested in participating.<br>"
   media:
@@ -125,6 +124,19 @@ page_sections:
   block: media-1
   caption: "<h3>Core Team</h3>"
   image: '/uploads/2020/04/01/core-team.png'
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    headline: "Dr Amos Folarin"
+    content: '<img src="/uploads/2020/04/08/Amos_Folarin_Cirx250.png"><br><em><p>“I’m particularly interested in how we can use digital signals from wearable devices and smartphones to track respiratory disease (such as CoViD-19) in the population. One idea we are keen to test is the viability of identifying signals of respiratory illness and even the pre-symptomatic stages of illness.</p>
+
+    <p>Your heart and lungs are part of the machinery responsible getting oxygen around your body, under your healthy baseline, an activity, like taking a walk, will result in your lungs and heart having to work at a level normal to you; however, when you have a respiratory infection your lungs don’t work as well, and consequently, for the same level of activity, your heart will have to work harder. So by having a record of your baseline heart rates for given activity levels when healthy, and your heart rates for the equivalent activity levels when ill, we are looking for a difference in the activity-to-heart rate ratios. Fortunately, this data is exactly what a wearable device like Fitbit provides. </p>
+
+    <p>This is something of a simplification, but it broadly captures the idea. By studying data from a lot of people we hope to identify subtle differences, especially once widespread testing for CoViD-19 comes into place - it will be very interesting to see if we can differentiate the signal of other respiratory infections like colds and flu from CoViD-19”
+    </em><br></p>'
+  col_2:
+    headline: "Callum Stewart"
+    content: '<img src="/uploads/2020/04/08/Callum_Stewart_Cirx250.png"><br><em><p>“Both the CoViD-19 outbreak itself and the social measures required to contain the spread are unprecedented in our lives. I’m interested in what impact it is having on our psychological well-being, and what we can do to limit any negative impacts and who might be most at risk of them. For example, we know that regular exercise and being in nature can reduce stress, anxiety, and depression. Now that there are limits on our freedom to go outside, is the permission to exercise once per day afforded to people in some countries used, useful, adequate or inessential? How long are people able to socially isolate before any ill effects emerge?”</em><br></p>'
 - template: full-width-media-element
   block: media-1
   caption: ""
