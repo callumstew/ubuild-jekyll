@@ -19,12 +19,12 @@ page_sections:
   content: |
     Welcome to the <b>CoViD Collab</b>!
 
-    <p>This is a <b>citizen science</b> research project calling on the donation of data from you to help in the fight against CoViD-19 and learn more about how the outbreak affects people's mental health.</p>
+    <p>CoViD Collab is a <b>citizen science</b> research project calling on the donation of data from you to help in the fight against CoViD-19 and learn more about how the outbreak affects people's mental health.</p>
 
     <p><strong>To do this we need data only you can provide! Let's collaborate to beat the Coronavirus!</strong></p>
   cta:
     enabled: true
-    url: https://google.com
+    url: https://play.google.com/store/apps/details?id=org.phidatalab.masssci
     button_text: Download for Android
   image:
     image: "/uploads/2020/04/01/covid_app_fitbit_sym2.png"
@@ -33,7 +33,7 @@ page_sections:
   call_to_action_2:
     enabled: true
     url: http://apple.com
-    button_text: iOS
+    button_text: iOS ("COMING SOON")
   cta2:
     enabled: true
     url: https://www.apple.com
@@ -50,6 +50,10 @@ page_sections:
     updating us on your mood, any CoViD-19-like symptoms, and optionally providing us
     access to your movement and Fitbit data, we hope to better understand how we are
     all being affected by the ongoing unprecedented situation.
+- template: full-width-media-element
+  block: media-1
+  caption: ""
+  image: '/uploads/2020/04/01/affiliations.png'
 - template: full-width-media-element
   block: media-1
   caption: ""
@@ -78,7 +82,7 @@ page_sections:
     image: "/uploads/2020/04/01/scale-symp-anim.gif"
     alt_text: ''
   headline: How to participate
-  content: Download our app and spend a small amount of time reporting your current
+  content: Download our Mass Science app and spend a small amount of time reporting your current
     symptoms, how you are feeling, and let us know if you are diagnosed.<br><br>Optionally,
     you can also fill in questionnaires every two weeks which will give us a much
     more in-depth understanding of your mood.<br><br>You may also provide us with
