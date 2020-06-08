@@ -1,20 +1,10 @@
 ---
-layout: blocks
-title: FAQs
-date: 2020-03-22T22:00:00.000+00:00
-page_sections:
-- template: navigation-header
-  block: header-1
-  logo: "/uploads/2020/04/08/logo2bluebg_340x.png"
-  navigation:
-  - link: "/"
-    link_text: Home
-  - link: "#about"
-    link_text: About
-  - link: https://phidatalab.org
-    link_text: PHIDL
-- template: default
-  content: |
+layout: default
+menu:
+  main:
+    weight: 2
+    title: Privacy Policy
+---
 # Frequently Asked Questions
 
 ## About CoViD Collab and the Mass Science (Mass Sci) App
@@ -86,4 +76,3 @@ email: [masssci@kcl.ac.uk](masssci@kcl.ac.uk "masssci@kcl.ac.uk")
 and
 Subject Title: "Covid Collab Issue/Bug"
 We are in the process of setting up a bug/issue submission portal which will simplify this process.
-|
