@@ -1,0 +1,16 @@
+<section id="faqs" class="block block-faqs-1">
+  <div class="container">
+    <div class="columns">
+      <div class="column text">
+      <h2> {{ section.title }} </h2>
+        {% for faq_item in section.faqs %}
+          <div class="faqs-item">
+              <br />
+              <h3><span class="light">{{ faq_item.question}}</span></h2>
+              <p> {{ faq_item.answer | markdownify}} </p>
+          </div>
+        {% endfor %}
+      </div>  
+    </div>
+  </div>
+</section>
