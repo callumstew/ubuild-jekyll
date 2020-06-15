@@ -23,14 +23,14 @@ page_sections:
   title: About Covid Collab and the Mass Sci App
   faqs:
     - question: Who created the Covid Collab study?
-      answer: Covid Collab was created by the a team of software developers lead by Dr Amos Folarin and data scientists lead by Prof. Richard Dobson who founded the open source [RADAR-base platform](https://.radar-base.org). Our group based within the Precision Health Informatics Lab [PHIDL](https://phidatalab.org) at the Institute of Psychiatry, Psychology & Neuroscience in King's College London have been involved in several large scale remote data collection projects using wearable, IoT and smartphone sensors. Leveraging our experience with mobile health and remote monitoring research with RADAR-base, we developed the Mass Science app to help us collect wearable data and study the CoViD-19 disease and pandemic, this work is non-commercial and is entirely developed at [King's College London](https://kcl.ac.uk).
+      answer: Covid Collab was created at King's College London by a team of software developers lead by Dr Amos Folarin and data scientists lead by Professor Richard Dobson who founded the open source [RADAR-base platform](https://.radar-base.org). Our group based within the Precision Health Informatics Lab [PHIDL](https://phidatalab.org) at the Institute of Psychiatry, Psychology & Neuroscience in King's College London have been involved in several large scale remote data collection projects using wearable, IoT and smartphone sensors. Leveraging our experience with mobile health and remote monitoring research with RADAR-base, we developed the Mass Science app to help us collect wearable data and study the CoViD-19 disease and pandemic, this work is non-commercial and is entirely developed at [King's College London](https://kcl.ac.uk).
     - question: Can I contribute data from other wearable devices?
       answer: Currently we are working using Fitbit data because this is a popular device where the data is readily accessible, but we have experience with other devices and aim to introduce a wider range of devices in follow-up versions of the app (you may email us [covid-collab@kcl.ac.uk](covid-collab@kcl.ac.uk "covid-collab@kcl.ac.uk") if you are interested in being notified of new wearable devices included in the study).
     - question: I've already had Covid-19, can I still donate my data?
       answer: Definitely! We'd be greatly appreciative of this retrospective data. If you are able to provide the time-point when you are experiencing symptoms or received a diagnosis then we are able to use this as context.
     - question: Can I participate if I don't live in the UK?
       answer: Yes, while our immediate focus is on participants in the UK, this is a worldwide pandemic and we want to study a wide range of people at different stages of the pandemic.
-    - question: Will I get medical advie from Covid Collab?
+    - question: Will I get medical advice from Covid Collab?
       answer: No. You will not receive medical advice from this study, it is purely a research study. Please seek medical advice from appropriate national health bodies, governments, or your doctor.
 
 - template: faqs-participation

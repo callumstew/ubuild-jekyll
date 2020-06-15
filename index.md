@@ -21,28 +21,28 @@ page_sections:
   content: |
     Welcome to the <b>Covid Collab</b>!
 
-    <p>Covid Collab is a <b>citizen science</b> research project calling on the donation of data from you to help in the fight against Covid-19 and learn more about how the outbreak affects people's mental health.</p>
+    <p>Covid Collab is a <b>citizen science</b> research project calling for the donation of data from you to help study physical and mental health effects of Covid-19.</p>
 
-    <p><strong>To do this we need data only you can provide! Let's collaborate to beat the Coronavirus!</strong></p>
+    <p><strong>To do this we need data only you can provide. Download the Mass Science App to find out how to get involved.</strong></p>
   cta:
     enabled: true
     url: https://play.google.com/store/apps/details?id=org.phidatalab.masssci
     button_text: Download for Android
   image:
     image: "/uploads/2020/04/01/covid_app_fitbit_sym2.png"
-    alt_text: Covid Collab App and Fitbit
+    alt_text: Powered by Mass Science App and Fitbit
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
   cta2:
     enabled: true
     url: #
-    button_text: Coming soon for iOS
+    button_text: Download for iOS
 - template: 1-column-text
   block: one-column-1
   headline: "<a id='about'>About</a>"
   content: Covid Collab is a study which hopes to investigate the ongoing coronavirus
     outbreak - both the disease itself and the impact it is having on our lives. It
-    is brought to you by the PHIDatalab team, a research group at the Institute of
-    Psychiatry, Psychology &amp; Neuroscience in King's College London. We have previous
+    is brought to you by the <a href="https://phidatalab.org">PHIDatalab</a>, a research group at the Institute of
+    Psychiatry, Psychology &amp; Neuroscience in <a href="https://www.kcl.ac.uk/ioppn">King's College London</a>. We have previous
     and ongoing experience in remotely monitoring disease and mental health through
     our work in <a href="https://radar-base.org/" title="RADAR-base">RADAR-base</a>.<br><br>By
     updating us on your mood, any Covid-19-like symptoms, and optionally providing us
@@ -51,11 +51,11 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   caption: ""
-  image: '/uploads/2020/04/01/affiliations.png'
+  image: '/uploads/2020/04/01/affiliations2.png'
 - template: 3-column-text
   block: three-column-1
   col_1:
-    headline: You'll be helping to answer...
+    headline: You'll be helping to answer
     content: 'How contagious the virus is and how different social distancing measures affect the transmission rate.'
   col_2:
     headline: Psychological impact
@@ -124,19 +124,19 @@ page_sections:
   block: two-column-1
   col_1:
     headline: "Dr Amos Folarin"
-    content: '<img src="/uploads/2020/04/08/Amos_Folarin_Cirx250.png"><br><em><p>“I’m particularly interested in how we can use digital signals from wearable devices and smartphones to track respiratory disease (such as Covid-19) in the population. One idea we are keen to test is the viability of identifying signals of respiratory illness and even the pre-symptomatic stages of illness.</p>
+    content: '<img src="/uploads/2020/04/08/Amos_Folarin_Cirx250.png"><br><em><p>“I’m interested in how we can use digital signals from wearable devices and smartphones to track respiratory disease (such as Covid-19) in the population. We are keen to test the viability of identifying signals of respiratory illness and the pre-symptomatic stages of illness.</p>
     <br>
-    <p>Your heart and lungs are part of the machinery responsible getting oxygen around your body, under your healthy baseline, an activity, like taking a walk, will result in your lungs and heart having to work at a level normal to you; however, when you have a respiratory infection your lungs don’t work as well, and consequently, for the same level of activity, your heart will have to work harder. So by having a record of your baseline heart rates for given activity levels when healthy, and your heart rates for the equivalent activity levels when ill, we are looking for a difference in the activity-to-heart rate ratios. Fortunately, this data is exactly what a wearable device like Fitbit provides. </p>
+    <p>Your heart and lungs are part of the machinery responsible for getting oxygen around your body and eliminating CO2, an activity such as taking a walk, will result in your lungs and heart having to work at your healthy baseline level; however, when you have a respiratory infection your lungs don’t work as well, and consequently, for the same level of activity, your heart will have to work harder. By having a record of your baseline heart rates for given activity levels when healthy, and your heart rates for the equivalent activity levels when ill, we are looking for a difference in the activity-to-heart rate ratios. Fortunately, this data is exactly what a wearable device like Fitbit provides.</p>
     <br>
-    <p>This is something of a simplification, but it broadly captures the idea. By studying data from a lot of people we hope to identify subtle differences, especially once widespread testing for Covid-19 comes into place - it will be very interesting to see if we can differentiate the signal of other respiratory infections like colds and flu from Covid-19”
+    <p>By studying this data from a large number of people, we aim to identify differences that are indicative of, or forcast illness. Once widespread testing for Covid-19 comes into place, we will be attempting to differentiate the signal of Covid-19 from other respiratory infections like colds and flu.”
     </em><br></p>'
   col_2:
     headline: "Callum Stewart"
-    content: '<img src="/uploads/2020/04/08/Callum_Stewart_Cirx250.png"><br><em><p>“Both the Covid-19 outbreak itself and the social measures required to contain the spread are unprecedented in our lives. I’m interested in what impact it is having on our psychological well-being, and what we can do to limit any negative impacts and who might be most at risk of them. For example, we know that regular exercise and being in nature can reduce stress, anxiety, and depression. Now that there are limits on our freedom to go outside, is the permission to exercise once per day afforded to people in some countries used, useful, adequate or inessential? How long are people able to socially isolate before any ill effects emerge?”</em><br></p>'
+    content: '<img src="/uploads/2020/04/08/Callum_Stewart_Cirx250.png"><br><em><p>“Both the Covid-19 outbreak itself and the social measures required to contain the spread are unprecedented in our lives. I’m interested in what impact it is having on our psychological well-being, what we can do to limit any negative impacts and who might be most at risk of them. For example, we know that regular exercise and being in nature can reduce stress, anxiety, and depression. Now that there are limits on our freedom to go outside, is the permission to exercise once per day afforded to people in some countries used, useful, adequate or inessential? How long are people able to socially isolate before any ill effects emerge?”</em><br></p>'
 - template: full-width-media-element
   block: media-1
   caption: ""
-  image: '/uploads/2020/04/01/affiliations.png'
+  image: '/uploads/2020/04/01/affiliations2.png'
 - template: 4-column-Footer
   block: footer-2
   image: '/uploads/2020/04/01/covid_app_fitbit_sym2.png'
