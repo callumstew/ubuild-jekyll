@@ -18,6 +18,7 @@ gem "jekyll", "~> 3.8.6"
 group :jekyll_plugins do
   gem "jekyll-feed"
   gem "jekyll-menus"
+  gem "jekyll-seo-tag"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
