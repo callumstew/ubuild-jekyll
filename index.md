@@ -34,7 +34,7 @@ page_sections:
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
   cta2:
     enabled: true
-    url: #
+    url: https://apps.apple.com/us/app/mass-science/id1511915099
     button_text: Download for iOS
 - template: 1-column-text
   block: one-column-1
