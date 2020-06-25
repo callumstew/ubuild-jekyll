@@ -6,11 +6,11 @@
         {% for faq_item in section.faqs %}
           <div class="faqs-item">
               <br />
-              <h3><span class="light">{{ faq_item.question}}</span></h2>
+              <h3><span class="light">{{ faq_item.question}}</span></h3>
               <p> {{ faq_item.answer | markdownify}} </p>
           </div>
         {% endfor %}
-      </div>  
+      </div>
     </div>
   </div>
 </section>

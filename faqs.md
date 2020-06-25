@@ -13,6 +13,8 @@ page_sections:
     link_text: About
   - link: /faqs.html
     link_text: FAQs
+  - link: "/register_info.html"
+    link_text: "Registration Guide"
   - link: https://phidatalab.org
     link_text: Team
 - template: title
@@ -20,7 +22,7 @@ page_sections:
   heading: Frequently Asked Questions
 - template: faqs-about
   block: faqs-1
-  title: About Covid Collab and the Mass Sci App
+  title: About Covid Collab and the Mass Science App
   faqs:
     - question: Who created the Covid Collab study?
       answer: Covid Collab was created at King's College London by a team of software developers lead by Dr Amos Folarin and data scientists lead by Professor Richard Dobson who founded the open source [RADAR-base platform](https://.radar-base.org). Our group based within the Precision Health Informatics Lab [PHIDL](https://phidatalab.org) at the Institute of Psychiatry, Psychology & Neuroscience in King's College London have been involved in several large scale remote data collection projects using wearable, IoT and smartphone sensors. Leveraging our experience with mobile health and remote monitoring research with RADAR-base, we developed the Mass Science app to help us collect wearable data and study the CoViD-19 disease and pandemic, this work is non-commercial and is entirely developed at [King's College London](https://kcl.ac.uk).
@@ -40,7 +42,7 @@ page_sections:
     - question: Can I participate if I am under 18 years old?
       answer: No, you can not participate if you are younger than 18. The current ethics approval for the study is restricted to adults over the age of 18.
     - question: Will you notify me when I need to do something?
-      answer: Yes. The Mass Sci app will send you a notification to indicate when a questionnaire is available to complete. The PHQ8 and GAD7 questionnaires, which look for symptoms of depression and anxiety, are available to complete every two weeks. You can inform us of Covid-19 symptoms or a diagnoses at any point.
+      answer: Yes. The Mass Science app will send you a notification to indicate when a questionnaire is available to complete. The PHQ8 and GAD7 questionnaires, which look for symptoms of depression and anxiety, are available to complete every two weeks. You can inform us of Covid-19 symptoms or a diagnoses at any point.
     - question: Are there other studies associated with Covid Collab that I can participate in?
       answer: Yes. When enrolling in the study there is an option to consent for us to be able to contact you. If you accept, we will contact you with information about sub-studies that you are eligible for. You are free to join or not join the sub-studies with no impact on your participation of the main study.
     - question: Is this study part of the DETECT, Corona-Datenspende or COVID-RED

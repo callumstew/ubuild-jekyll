@@ -1,0 +1,18 @@
+<section id="registration" class="block block-faqs-1">
+  <div class="container">
+    <div class="columns">
+      <div class="column text">
+      <h2> {{ section.title }} </h2>
+        {% for reg_item in section.registration %}
+          <div class="reg-item">
+              <br />
+              {% for reg_instruction in section.reg-item %}
+              <p><span class="light"> {{ reg.item.reg_instruction.text | markdownify }} </span></p>
+              <img src="{{ reg.item.reg_instruction.image }}" >
+              {% endfor %}
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</section>

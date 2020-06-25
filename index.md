@@ -13,17 +13,21 @@ page_sections:
     link_text: About
   - link: /faqs.html
     link_text: FAQs
+  - link: "/register_info.html"
+    link_text: "Registration Guide"
   - link: https://phidatalab.org
     link_text: Team
 - template: hero-banner-w-image
   block: hero-2
   headline: Covid<br><strong>Collab</strong><br>
   content: |
-    Welcome to the <b>Covid Collab</b>!
+    Welcome to the <b>Covid Collab Research Study</b>
 
-    <p>Covid Collab is a <b>citizen science</b> research project calling for the donation of data from you to help study physical and mental health effects of Covid-19.</p>
+    <p>This is a <b>citizen science</b> research project calling for the donation of data from you to help study the physical and mental health effects of Covid-19.</p>
 
-    <p><strong>To do this we need data only you can provide. Download the Mass Science App to find out how to get involved.</strong></p>
+    <p><strong>To do this we need data only you can provide. <br>Download the Mass Science App to find out how to get involved.</strong></p>
+
+    <p><strong>Own a Fitbit?</strong> We are especially interested in you joining our study.
   cta:
     enabled: true
     url: https://play.google.com/store/apps/details?id=org.phidatalab.masssci
@@ -39,30 +43,31 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: "<a id='about'>About</a>"
-  content: Covid Collab is a study which hopes to investigate the ongoing coronavirus
-    outbreak - both the disease itself and the impact it is having on our lives. It
-    is brought to you by the <a href="https://phidatalab.org">PHIDatalab</a>, a research group at the Institute of
-    Psychiatry, Psychology &amp; Neuroscience in <a href="https://www.kcl.ac.uk/ioppn">King's College London</a>. We have previous
-    and ongoing experience in remotely monitoring disease and mental health through
-    our work in <a href="https://radar-base.org/" title="RADAR-base">RADAR-base</a>.<br><br>By
-    updating us on your mood, any Covid-19-like symptoms, and optionally providing us
-    access to your movement and Fitbit data, we hope to better understand how we are
-    all being affected by the ongoing unprecedented situation.
-- template: full-width-media-element
-  block: media-1
-  caption: ""
-  image: '/uploads/2020/04/01/affiliations2.png'
+  content:
+    <strong>Covid Collab</strong> is a research study led out of <a href="https://www.kcl.ac.uk/ioppn">King's College London</a> (<a href="https://phidatalab.org">PHIDatalab</a>) investigating the ongoing COVID-19 outbreak - both the disease itself and the impact measures to control it are having on our lives. A key feature of this study is the use of wearable data which will be used to investigate changes in measurements such as heart rate during infection with coronavirus.
 - template: 3-column-text
   block: three-column-1
   col_1:
     headline: You'll be helping to answer
-    content: 'How contagious the virus is and how different social distancing measures affect the transmission rate.'
+    content: 'If wearable data, from e.g. Fitbit, can be used as a digital test to identify COVID-19 cases.<br><br> How contagious the virus is and how different social distancing measures affect the transmission rate.'
   col_2:
     headline: Psychological impact
     content: "Many people are already feeling a large psychological impact from the outbreak and the measures being required to contain it. We would like to understand to what extent it is affecting people's mood and causing stress."
   col_3:
     headline: Symptoms
-    content: 'Our knowledge of Covid-19 symptomatology is presently limited. Your data will help us test our theories and about what symptoms are important. Are there any early predictors of infection and how reliable are these?'
+    content: 'Our knowledge of Covid-19 symptoms and severity are presently limited. Your data will help us test our theories and about what symptoms are important. Are there any early predictors of infection and how reliable are these?'
+- template: content-feature
+  block: feature-2
+  media_alignment: Right
+  headline: Mass Science App + Covid Collab
+  content: "Data for the <strong>Covid Collab</strong> study will use the <strong>Mass Science</strong> app developed here at King's College London for data collection."
+  media:
+    image: '/uploads/2020/06/masssci-rotate-cop-64-opti.gif'
+    alt_text: ''
+- template: full-width-media-element
+  block: media-1
+  caption: ""
+  image: '/uploads/2020/04/01/affiliations2.png'
 - template: full-width-media-element
   block: media-1
   caption: ""
