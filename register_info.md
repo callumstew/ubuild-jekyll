@@ -11,19 +11,19 @@ menu:
 ## Registration process:
 
 
-### 1. Download & install the app
+### 1. Download & install the Mass Science app
 
 ![App download](uploads/2020/04/08/download-app-buttons.png)
 
-### 2. Read and enrol in the study
+### 2. Enrol in the study
 Select "Enrol Now", read the study information carefully, there's a summary of the key points.
 
-![Enrol Screen](uploads/2020/04/08/Screenshot_20200408-210917.jpg)
-![Enrol Screen participant info](uploads/2020/04/08/Screenshot_20200408-210926.jpg)
-![Enrol Screen key points](uploads/2020/04/08/Screenshot_20200408-210931_.jpg)
+![Enrol Screen](uploads/2020/06/29/Screenshot_20200629-214424.jpg)
+![Enrol Screen participant info](uploads/2020/06/29/Screenshot_20200629-214452.jpg)
+![Enrol Screen key points](uploads/2020/06/29/Screenshot_20200629-214459.jpg)
 
 ### 3. Consent
-If you wish to participate, please enable the relevant consents.
+If you wish to participate, please read and tick the consent checkboxes.
 
 ![Enrol Screen](uploads/2020/04/08/Screenshot_20200408-211039.jpg)
 
@@ -33,12 +33,12 @@ Registration here creates your account. You'll need an email address for this st
 ![Enrol Screen](uploads/2020/04/08/Screenshot_20200408-211058.jpg)
 
 #### Approve permissions to collect location Data
-If you are willing to share location data this should be enabled here.
+If you are willing to share location data this should be enabled here. Note you'll also need to enable the location option in Step 6 (see below after registration is complete)
 
 ![screenshot  of location permission grant](uploads/2020/04/08/Screenshot_20200408-211236.jpg)
 
 ### 5. You may immediately fill the CoViD-19 Symptoms & Diagnosis questionnaires
-While you will be reminded to fill these with notifications, you may fill them at anytime you experience symptoms or receive a diagnosis - you do not need to wait for the notification to fill these.
+While you will be reminded to fill these with notifications, you may fill them at anytime you experience symptoms or receive a diagnosis - you do not need to wait for the notification if you are experiencing symptoms or receive a diagnosis of COVID-19.
 
 Home screen:
 

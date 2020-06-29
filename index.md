@@ -62,7 +62,7 @@ page_sections:
   headline: Mass Science App + Covid Collab
   content: "Data for the <strong>Covid Collab</strong> study will use the <strong>Mass Science</strong> app developed here at King's College London for data collection."
   media:
-    image: '/uploads/2020/06/masssci-rotate-cop-64-opti.gif'
+    image: '/uploads/2020/06/29/masssci-rot-crop-64-opt.gif'
     alt_text: ''
 - template: full-width-media-element
   block: media-1
