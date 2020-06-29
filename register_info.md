@@ -15,12 +15,18 @@ menu:
 
 ![App download](uploads/2020/04/08/download-app-buttons.png)
 
+[**Download Mass Science App for Google Android**](https://play.google.com/store/apps/details?id=org.phidatalab.masssci){:target="_blank"}
+
+[**Download Mass Science App for Apple iOS**](https://apps.apple.com/us/app/mass-science/id1511915099){:target="_blank"}
+
+
 ### 2. Enrol in the study
 Select "Enrol Now", read the study information carefully, there's a summary of the key points.
 
-![Enrol Screen](uploads/2020/06/29/Screenshot_20200629-214424.jpg)
-![Enrol Screen participant info](uploads/2020/06/29/Screenshot_20200629-214452.jpg)
-![Enrol Screen key points](uploads/2020/06/29/Screenshot_20200629-214459.jpg)
+![Enrol Screen](uploads/2020/06/29/Screenshot_20200629-225045.jpg)
+![Enrol Screen participant info](uploads/2020/06/29/Screenshot_20200629-225054.jpg)
+
+![Enrol Screen key points](uploads/2020/06/29/Screenshot_20200629-225101.jpg)
 
 ### 3. Consent
 If you wish to participate, please read and tick the consent checkboxes.
@@ -48,6 +54,7 @@ The Symptoms questionnaire:
 
 ![screenshot  of symptoms questionnaire](uploads/2020/04/08/Screenshot_20200408-211316.jpg)
 ![screenshot  of symptoms questionnaire](uploads/2020/04/08/Screenshot_20200408-211339.jpg)
+
 ![screenshot  of additional symptoms](uploads/2020/04/08/Screenshot_20200408-211345.jpg)
 
 The Diagnosis questionnaire:
