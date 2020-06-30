@@ -23,24 +23,35 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: Download & install the app
-  content: You can find links to the app for Apple or Android devices on the homepage of this site.
+  headline: 1. Download & install the app
+  content: You can find links to the app for Apple or Android devices below or on the homepage of this site.
+  cta:
+    enabled: true
+    url: https://play.google.com/store/apps/details?id=org.phidatalab.masssci
+    button_text: Download for Android
+  image:
+    image: "/uploads/2020/04/01/covid_app_fitbit_sym2.png"
+    alt_text: Powered by Mass Science App and Fitbit
+  cta2:
+    enabled: true
+    url: https://apps.apple.com/us/app/mass-science/id1511915099
+    button_text: Download for iOS
   media:
     image: 'uploads/2020/04/08/download-app-buttons.png'
-    alt_text: '1. App download buttons on the website homepage'
+    alt_text: 'App download buttons on the website homepage'
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: Read and enrol in the study
+  headline: 2. Enrol in the study
   content: On the app, select "Enrol Now" and read the study information and key points.
   media:
     image: 'uploads/2020/04/08/Screenshot_20200408-210917.jpg'
-    alt_text: '2. App login and enrolment screen'
+    alt_text: 'App login and enrolment screen'
 - template: content-feature
   block: feature-1
   media_alignment: Left
   headline: '3. Consent'
-  content: 'If you wish to participate, you should consent to the items that you agree to on this screen. You are not required to agree to all of the points to participate, the last two are optional'
+  content: 'If you wish to participate, you should consent to the items that you agree to on this screen. You are not required to agree to all of the points to participate; the last two are optional'
   media:
     image: 'uploads/2020/04/08/Screenshot_20200408-211039.jpg'
     alt_text: 'App enrolment consent screen'
