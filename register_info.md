@@ -1,99 +1,111 @@
 ---
-layout: default
-menu:
-  main:
-    weight: 2
-    title: Privacy Policy
+layout: blocks
+title: Homepage
+date: 2020-03-22T22:00:00.000+00:00
+page_sections:
+- template: navigation-header
+  block: header-1
+  logo: "/uploads/2020/03/27/corona.png"
+  navigation:
+  - link: "/"
+    link_text: Home
+  - link: "#about"
+    link_text: About
+  - link: /faqs.html
+    link_text: FAQs
+  - link: "/register_info.html"
+    link_text: "Registration Guide"
+  - link: https://phidatalab.org
+    link_text: Team
+- template: title
+  block: hero-1
+  heading: Enrolment and Registration Guide
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: 1. Download & install the app
+  content: You can find links to the app for Apple or Android devices below or on the homepage of this site.
+  cta:
+    enabled: true
+    url: https://play.google.com/store/apps/details?id=org.phidatalab.masssci
+    button_text: Download for Android
+  image:
+    image: "/uploads/2020/04/01/covid_app_fitbit_sym2.png"
+    alt_text: Powered by Mass Science App and Fitbit
+  cta2:
+    enabled: true
+    url: https://apps.apple.com/us/app/mass-science/id1511915099
+    button_text: Download for iOS
+  media:
+    image: 'uploads/images/registration/masssci_logo.png'
+    alt_text: 'App download buttons on the website homepage'
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: 2. Enrol in the study
+  content: On the app, select "Enrol Now" and read the study information and key points.
+  media:
+    image: 'uploads/images/registration/app_login_small.png'
+    alt_text: 'App login and enrolment screen'
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: '3. Consent'
+  content: 'If you wish to participate, you should consent to the items that you agree to on this screen. You are not required to agree to all of the points to participate; the last two are optional'
+  media:
+    image: 'uploads/images/registration/app_consent_small.png'
+    alt_text: 'App enrolment consent screen'
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: '4. Personal details'
+  content: "Here you can provide some information about yourself which will help us better understand your data. While you must be over 18 to take part in the study, you are no required to provide any other details here if you do not wish to. 
+  <br /><br />
+  The study link ID is for people who are already enrolled in other specific studies and wish to link it. If you don't have one, you don't need to worry about it."
+  media:
+    image: 'uploads/images/registration/app_personal_small.png'
+    alt_text: 'App personal details form screen'
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: '5. Create an account'
+  content: 'Sign up with an email address to create your account. Providing your email will allow you to recover your account and will allow us to email you regarding the study.' 
+  media:
+    image: 'uploads/images/registration/app_account_small.png'
+    alt_text: 'App account registration screen'
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: '6. Share location data'
+  content: 'When you first log in to the app you can agree to share your location data if you are comfortable doing so. While we do collect your location with your permission, researchers will only be able to see an anonymised aggregated version of that data.<br /><br />You are able to turn location tracking on or off at any time on the Sources tab.' 
+  media:
+    image: 'uploads/images/registration/app_location_permissions.png'
+    alt_text: 'App location permission dialog'
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: '7. Link a Fitbit account'
+  content: "If you have a Fitbit device, you can share the data already collected by Fitbit. Go to the 'Sources' screen of the app and click the 'Link account' button. You will need to log in to your account and choose the relevant data to share. You can withdraw permission to access your Fitbit data at any point through your Fitbit account." 
+  media:
+    image: 'uploads/images/registration/app_fitbit_link_small.png'
+    alt_text: 'App source screen with arrow to link Fitbit account'
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: '8. Fill in questionnaires'
+  content: 'There are several questionnaires we ask you to complete on a regular basis to give us an understanding of how you are doing.</p><br />
+  <p>The Covid symptoms and diagnosis questionnaires can be filled at any time. You will receieve a notification asking you to fill the symptoms questionnaire two times per week.</p><br />
+  <p>The PHQ-8 and GAD-7 questionnaires ask you about markers of depression and stress over the past two weeks respectively. They are available to complete once every two weeks and you will recieve a notification when they become available.</p>'
+  media:
+    image: 'uploads/images/registration/app_home_small.png'
+    alt_text: 'Home screen of app showing available questionnaires'
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: 'Logging out or leaving the study'
+  content: 'You can temporarily pause data collection by logging out or permanently leave the study through the menu in the top right of the app. You can optionally request that personal data you have already shared with us is deleted if you leave the study.' 
+  media:
+    image: 'uploads/images/registration/app_home_menu_small.png'
+    alt_text: 'Home page with menu pressed showing option to log out or leave study'
 
 ---
-# How to Register
-
-## Registration process:
-
-
-### 1. Download & install the Mass Science app
-
-![App download](uploads/2020/04/08/download-app-buttons.png)
-
-[**Download Mass Science App for Google Android**](https://play.google.com/store/apps/details?id=org.phidatalab.masssci){:target="_blank"}
-
-[**Download Mass Science App for Apple iOS**](https://apps.apple.com/us/app/mass-science/id1511915099){:target="_blank"}
-
-
-### 2. Enrol in the study
-Select "Enrol Now", read the study information carefully, there's a summary of the key points.
-
-![Enrol Screen](uploads/2020/06/29/Screenshot_20200629-225045.jpg)
-![Enrol Screen participant info](uploads/2020/06/29/Screenshot_20200629-225054.jpg)
-
-![Enrol Screen key points](uploads/2020/06/29/Screenshot_20200629-225101.jpg)
-
-### 3. Consent
-If you wish to participate, please read and tick the consent checkboxes.
-
-![Enrol Screen](uploads/2020/04/08/Screenshot_20200408-211039.jpg)
-
-### 4. Register
-Registration here creates your account. You'll need an email address for this step.
-
-![Enrol Screen](uploads/2020/04/08/Screenshot_20200408-211058.jpg)
-
-#### Approve permissions to collect location Data
-If you are willing to share location data this should be enabled here. Note you'll also need to enable the location option in Step 6 (see below after registration is complete)
-
-![screenshot  of location permission grant](uploads/2020/04/08/Screenshot_20200408-211236.jpg)
-
-### 5. You may immediately fill the CoViD-19 Symptoms & Diagnosis questionnaires
-While you will be reminded to fill these with notifications, you may fill them at anytime you experience symptoms or receive a diagnosis - you do not need to wait for the notification if you are experiencing symptoms or receive a diagnosis of COVID-19.
-
-Home screen:
-
-![screenshot  of home screen](uploads/2020/04/08/Screenshot_20200408-211257.jpg)
-
-The Symptoms questionnaire:
-
-![screenshot  of symptoms questionnaire](uploads/2020/04/08/Screenshot_20200408-211316.jpg)
-![screenshot  of symptoms questionnaire](uploads/2020/04/08/Screenshot_20200408-211339.jpg)
-
-![screenshot  of additional symptoms](uploads/2020/04/08/Screenshot_20200408-211345.jpg)
-
-The Diagnosis questionnaire:
-
-![screenshot  of diagnosis questionnaire](uploads/2020/04/08/Screenshot_20200408-211414.jpg)
-
-#### When you receive your notifications please click on them to fill out the questionnaires
-
-When you fill a questionnaire (PHQ8, GAD-7) our app will automatically schedule a new notification in 2 weeks time. You should fill these questionnaires based on your experiences in the last 2 weeks.
-
-The PHQ8 and GAD7 questionnaires:
-
-![screenshot  of PHQ8 questionnaire](uploads/2020/04/08/Screenshot_20200408-211422.jpg)
-![screenshot  of GAD7 questionnaire](uploads/2020/04/08/Screenshot_20200408-211433.jpg)
-
-You will also receive notifications for CoViD-19 Symptoms & Diagnosis questionnaires.
-
-
-### 6. Phone location data
-This screen displays and controls the Data Sources (location and Fitbit) you have enabled:
-
-![screenshot of sources page](uploads/2020/04/08/Screenshot_20200408-211440.jpg)
-
-If you want to later provide Covid Collab with location data permission, you may do so.
-
-### 7. Provide Covid Collab with access to your Fitbit data
-Click on "Link account" to provide Covid Collab with your Fitbit data, you'll need to login to your Fitbit account once (don't worry this login is with Fitbit and is not visible to us, it indicates to Fitbit that you give use permission to collect the Fitbit data), this permission may be withdrawn at anytime you desire.
-
-![screenshot of Fitbit Auth screen](uploads/2020/04/08/Screenshot_20200408-211620_Chrome.jpg)
-![screenshot of linked confirmation](uploads/2020/04/08/Screenshot_20200408-211648.jpg)
-
-### 8. View history of the responses in the Symptoms questionnaire
-WE EMPHASIZE THAT THIS NOT A CLINICAL APPLICATION AND SHOULD IN NO WAY BE CONSIDERED A CLINICAL DIAGNOSIS!
-This screen is purely for your reference based on the answers you provided to us.
-The Happiness/Energy scale is based on this [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2367156/).
-
-![screenshot of Happiness/Energy scale](uploads/2020/04/08/Screenshot_20200408-211723.jpg)
-
-### 9. You may Logout or Withdraw from the study
-If you want to "Logout" to pause data collection, or transfer to a new phone you may do so from this menu. If you wish to leave the study then you may select the "Leave Study" option.
-
-![screenshot of logout and withdraw menu](uploads/2020/04/08/Screenshot_20200408-211705.jpg)

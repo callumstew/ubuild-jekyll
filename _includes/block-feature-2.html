@@ -6,7 +6,16 @@
       </div>
       <div class="column text">
           <h2><span class="light">{{ section.headline }}</span></h2>
-          <p>{{ section.content }}</p>
+          <p>{{ section.content }} </p>
+          <div class="cta_buttons" style="line-height: 300%;">
+            {% if section.cta and section.cta.enabled == true %}
+            <a class="button primary" href="{{ section.cta.url }}">{{ section.cta.button_text }}</a>
+            {% endif %}
+            {% if section.cta2 and section.cta2.enabled == true %}
+            <br />
+            <a class="button primary" href="{{ section.cta2.url }}">{{ section.cta2.button_text }}</a>
+            {% endif %}
+            </div>
       </div>  
     </div>
   </div>
