@@ -1,0 +1,26 @@
+<section class="block block-media-2">
+  <div class="container">
+    <div class="columns">
+      <div class="column">
+        <figure>
+          <a href="{{section.image_1.url}}" target="{{section.image_1.target}}" >
+          <img src="{{ section.image_1.image | relative_url }}" alt="{{ section.image_1.caption }}">
+          </a>
+          {% if section.image_1.caption %}
+          <figcaption>{{ section.image_1.caption }}</figcaption>
+          {% endif %}
+        </figure>
+      </div>
+      <div class="column">
+        <figure>
+            <a href="{{section.image_2.url}}" target="{{section.image_2.target}}" >
+            <img src="{{ section.image_2.image | relative_url }}" alt="{{ section.image_2.caption }}">
+            </a>
+            {% if section.image_2.caption %}
+            <figcaption>{{ section.image_2.caption }}</figcaption>
+            {% endif %}
+        </figure>
+      </div>
+    </div>
+  </div>
+</section>
