@@ -54,8 +54,8 @@ page_sections:
     caption:
     target: _blank
   image_2:
-    image: uploads/news-articles/wareable.png
-    url: https://www.wareable.com/fitbit/fitbit-coronavirus-early-detection-research-8034
+    image: uploads/news-articles/Daily-Mail.png
+    url: https://www.dailymail.co.uk/news/article-8553851/Fitbit-wearers-asked-join-study-smartwatches-detect-signs-coronavirus.html
     caption:
     target: _blank
 - template: 2-colum-media-url-element
@@ -78,8 +78,8 @@ page_sections:
     caption:
     target: _blank
   image_2:
-    image: uploads/news-articles/
-    url:
+    image: uploads/news-articles/wareable.png
+    url: https://www.wareable.com/fitbit/fitbit-coronavirus-early-detection-research-8034
     caption:
     target: _blank
 

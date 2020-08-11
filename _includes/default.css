@@ -145,6 +145,7 @@ input.inverted::placeholder {
 .block-header-1--logo img {
  max-height:24px;
  max-height:1.5rem
+ margin-right:16px;
 }
 .block-header-1 .nav-item {
  display:inline-block;

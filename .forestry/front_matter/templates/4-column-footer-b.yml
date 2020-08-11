@@ -1,15 +1,19 @@
 ---
-label: 4-column-footer
+label: 4-column-footer-b
 hide_body: false
 fields:
 - type: text
   hidden: true
   label: block
   name: block
-  default: footer-2-b
-- type: file
-  label: Column 1 Image
-  name: image
+  default: footer-2
+- type: textarea
+  name: col_1
+  label: Column 1 Content
+  config:
+    wysiwyg: true
+    schema:
+      format: html
 - type: textarea
   name: col_2
   label: Column 2 Content

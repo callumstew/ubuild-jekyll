@@ -144,12 +144,13 @@ page_sections:
   block: media-1
   caption: ""
   image: '/uploads/2020/04/01/affiliations2.png'
-- template: 4-column-Footer
-  image: "/uploads/2020/08/04/share.png"
-  block: footer-2
-  col_2: '<a href="https://twitter.com/covid_collab" target="_blank" title="Share on Twitter"><img src="/uploads/2020/08/04/twitter.png"></a>'
-  col_3: '<a href="https://www.facebook.com/COVID-Collab-Study-631122017519709" target="_blank" title="Share on Facebook"><img src="/uploads/2020/08/04/facebook.png"></a>'
-- template: 4-column-Footer
+- template: 4-column-footer-b
+  block: footer-2-b
+  col_1: '<a href="https://twitter.com/covid_collab" target="_blank" title="Share on Twitter"><img src="/uploads/2020/08/04/twitter.png"></a>'
+  col_2: '<a href="https://www.facebook.com/COVID-Collab-Study-631122017519709" target="_blank" title="Share on Facebook"><img src="/uploads/2020/08/04/facebook.png"></a>'
+  col_3:
+  col_4:
+- template: 4-column-footer
   block: footer-2
   image: '/uploads/2020/04/01/covid_app_fitbit_sym2.png'
   col_2: '<a href="/privacy_policy.html" title="Privacy Policy">Privacy Policy</a>'
