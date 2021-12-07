@@ -46,7 +46,7 @@ page_sections:
   block: one-column-1
   headline: "<a id='about'>About</a>"
   content:
-    <strong>COVID Collab</strong> is a research study led out of <a href="https://www.kcl.ac.uk/ioppn">King's College London</a> (<a href="https://phidatalab.org">PHIDatalab</a>) investigating the ongoing COVID-19 outbreak - both the disease itself and the impact measures to control it are having on our lives. A key feature of this study is the use of wearable data which will be used to investigate changes in measurements such as heart rate during infection with coronavirus.
+    <strong>COVID Collab</strong> is a research study led out of <a href="https://www.kcl.ac.uk/ioppn">King's College London and University College London BRCs</a> (<a href="https://phidatalab.org">PHIDatalab</a>) investigating the ongoing COVID-19 outbreak - both the disease itself and the impact measures to control it are having on our lives. A key feature of this study is the use of wearable data which will be used to investigate changes in measurements such as heart rate during infection with coronavirus.
 - template: 3-column-text
   block: three-column-1
   col_1:
