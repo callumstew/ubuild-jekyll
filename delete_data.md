@@ -1,7 +1,7 @@
 ---
 layout: blocks
-title: Homepage
-date: 2020-03-22T22:00:00.000+00:00
+title: Delete your data from the Mass Science app
+date: 2023-12-27
 page_sections:
 - template: navigation-header
   block: header-1
