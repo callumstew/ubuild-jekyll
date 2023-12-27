@@ -13,15 +13,19 @@ page_sections:
     link_text: About
   - link: /faqs.html
     link_text: FAQs
+  - link: "/register_info.html"
+    link_text: "Registration Guide"
+  - link: "/in-the-news.html"
+    link_text: "In the News"
   - link: https://phidatalab.org
     link_text: Team
 - template: title
   block: hero-1
-  heading: Covid Collab Privacy Policy
+  heading: COVID Collab Privacy Policy
 - template: intro
   block: one-column-1
   heading: ''
-  content: "Covid Collab is developed by the RADAR-base Team at Precision Health Informatics Data Lab (PHIDL / PHIDataLab) which is a research group at King's College London. This privacy policy will explain how our organization uses the personal data we collect from you when you use our website and Mass Science application as part of the study."
+  content: "COVID Collab is developed by the RADAR-base Team at Precision Health Informatics Data Lab (PHIDL / PHIDataLab) which is a research group at King's College London. This privacy policy will explain how our organization uses the personal data we collect from you when you use our website and Mass Science application as part of the study."
 - template: topics
   block: faqs-1
   title: Topics
@@ -43,7 +47,7 @@ page_sections:
   block: faqs-1
   title: "<a id='what-data'>What data do we collect?</a>"
   faqs:
-  - question: 
+  - question:
     answer: '
     Our group collects the following data:
     <br /><br />
@@ -72,13 +76,13 @@ page_sections:
     * Use or view our website via your browser’s cookies.
 
 
-    Covid Collab, through the Mass Sci app, can also receive data from third party services where you have explicitly connected your account. For example: Heart rate, sleep, and steps are received from Fitbit if you chose to authorize use to access your Fitbit data through the app.'
+    COVID Collab, through the Mass Sci app, can also receive data from third party services where you have explicitly connected your account. For example: Heart rate, sleep, and steps are received from Fitbit if you chose to authorize use to access your Fitbit data through the app.'
 - template: how-use
   block: faqs-1
   title: "<a id='how-use'>How will we use your data?</a>"
   faqs:
     - answer: '
-    Covid Collab collects your data so that we can analyse it in order to answer important questions on:
+    COVID Collab collects your data so that we can analyse it in order to answer important questions on:
 
     * The effect of the Covid-19 outbreak on mental health
 
@@ -92,34 +96,34 @@ page_sections:
   block: faqs-1
   title: "<a id='how-store'>How do we store your data?</a>"
   faqs:
-    - answer: "Covid Collab securely stores your data on the Google Cloud platform and on encrypted servers at King's College London. Only pseudo-anonymised and processed data will be available to analysts; actual location coordinates will be stored encrypted and only accessed to process into pseudo-anonymised metrics. Covid Collab will keep your personal data for 2 years. Once this time period has expired, we will delete your personal data."
+    - answer: "COVID Collab securely stores your data on the Google Cloud platform and on encrypted servers at King's College London. Only pseudo-anonymised and processed data will be available to analysts; actual location coordinates will be stored encrypted and only accessed to process into pseudo-anonymised metrics. COVID Collab will keep your personal data for 2 years. Once this time period has expired, we will delete your personal data."
 - template: data-rights
   block: faqs-1
   title: "<a id='data-rights'>What are your data protection rights?</a>"
   faqs:
     - answer: '
-    Covid Collab would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:
+    COVID Collab would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:
 
 
-    **The right to access** – You have the right to request Covid Collab for copies of your personal data. We may charge you a small fee for this service.
+    **The right to access** – You have the right to request COVID Collab for copies of your personal data. We may charge you a small fee for this service.
 
 
-    **The right to rectification** – You have the right to request that Covid Collab correct any information you believe is inaccurate. You also have the right to request Covid Collab to complete the information you believe is incomplete.
+    **The right to rectification** – You have the right to request that COVID Collab correct any information you believe is inaccurate. You also have the right to request COVID Collab to complete the information you believe is incomplete.
 
 
-    **The right to erasure** – You have the right to request that Covid Collab erase your personal data, under certain conditions.
+    **The right to erasure** – You have the right to request that COVID Collab erase your personal data, under certain conditions.
 
 
-    **The right to restrict processing** – You have the right to request that Covid Collab restrict the processing of your personal data, under certain conditions.
+    **The right to restrict processing** – You have the right to request that COVID Collab restrict the processing of your personal data, under certain conditions.
 
 
-    **The right to object to processing** – You have the right to object to Covid Collab’s processing of your personal data, under certain conditions.
+    **The right to object to processing** – You have the right to object to COVID Collab’s processing of your personal data, under certain conditions.
 
 
-    **The right to data portability** – You have the right to request that Covid Collab transfer the data that we have collected to another organization, or directly to you, under certain conditions.
+    **The right to data portability** – You have the right to request that COVID Collab transfer the data that we have collected to another organization, or directly to you, under certain conditions.
 
     <br /><br />
-    If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us 
+    If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us
     <br />
     **At our email**: [covid-collab@kcl.ac.uk](covid-collab@kcl.ac.uk)<br />
     **Call us at**: +44 (0)20 7848 0951 <br />
@@ -156,7 +160,7 @@ page_sections:
       There are a number of different types of cookies, however, our website uses:
 
 
-      **Functionality** – Covid Collab uses these cookies so that we recognize you on our website and remember your previously selected preferences. These could include what language you prefer and location you are in. A mix of first-party and third-party cookies are used.'
+      **Functionality** – COVID Collab uses these cookies so that we recognize you on our website and remember your previously selected preferences. These could include what language you prefer and location you are in. A mix of first-party and third-party cookies are used.'
 - template: cookies-manage
   block: faqs-1
   title: "<a id='cookies-manage'>How to manage cookies</a>"
@@ -166,12 +170,12 @@ page_sections:
   block: faqs-1
   title: "<a id='privacy-other'>Privacy policies of other websites</a>"
   faqs:
-    - answer: 'The Covid Collab website contains links to other websites. Our privacy policy applies only to our website, so if you click on a link to another website, you should read their privacy policy.'
+    - answer: 'The COVID Collab website contains links to other websites. Our privacy policy applies only to our website, so if you click on a link to another website, you should read their privacy policy.'
 - template: privacy-changes
   block: faqs-1
   title: "<a id='privacy-changes'>Changes to our privacy policy</a>"
   faqs:
-    - answer: 'Covid Collab keeps its privacy policy under regular review and places any updates on this web page. This privacy policy was last updated on 05 June 2020.'
+    - answer: 'COVID Collab keeps its privacy policy under regular review and places any updates on this web page. This privacy policy was last updated on 05 June 2020.'
 - template: contact
   block: faqs-1
   title: "<a id='contact'>How to contact us</a>"

@@ -13,6 +13,10 @@ page_sections:
     link_text: About
   - link: /faqs.html
     link_text: FAQs
+  - link: "/register_info.html"
+    link_text: "Registration Guide"
+  - link: "/in-the-news.html"
+    link_text: "In the News"
   - link: https://phidatalab.org
     link_text: Team
 - template: title
@@ -21,7 +25,7 @@ page_sections:
 - template: intro
   block: faqs-1
   faqs:
-    - answer: "Covid Collab is developed by the RADAR-base Team at Precision Health Informatics Data Lab (PHIDL / PHIDataLab) which is a research group at King's College London. This privacy policy will explain how our organization uses the personal data we collect from you when you use our website and Mass Science application as part of the study."
+    - answer: "COVID Collab is developed by the RADAR-base Team at Precision Health Informatics Data Lab (PHIDL / PHIDataLab) which is a research group at King's College London. This privacy policy will explain how our organization uses the personal data we collect from you when you use our website and Mass Science application as part of the study."
 - template: contact
   block: faqs-1
   title: "<a id='contact'>How to contact us</a>"

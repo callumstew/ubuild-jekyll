@@ -15,13 +15,15 @@ page_sections:
     link_text: FAQs
   - link: "/register_info.html"
     link_text: "Registration Guide"
+  - link: "/in-the-news.html"
+    link_text: "In the News"
   - link: https://phidatalab.org
     link_text: Team
 - template: hero-banner-w-image
   block: hero-2
   headline: COVID<br><strong>Collab</strong><br>
   content: |
-    Welcome to the <b>Covid Collab Research Study</b>
+    Welcome to the <b>COVID Collab Research Study</b>
 
     <p>This is a <b>citizen science</b> research project calling for the donation of data from you to help study the physical and mental health effects of Covid-19.</p>
 
@@ -44,7 +46,7 @@ page_sections:
   block: one-column-1
   headline: "<a id='about'>About</a>"
   content:
-    <strong>Covid Collab</strong> is a research study led out of <a href="https://www.kcl.ac.uk/ioppn">King's College London</a> (<a href="https://phidatalab.org">PHIDatalab</a>) investigating the ongoing COVID-19 outbreak - both the disease itself and the impact measures to control it are having on our lives. A key feature of this study is the use of wearable data which will be used to investigate changes in measurements such as heart rate during infection with coronavirus.
+    <strong>COVID Collab</strong> is a research study led out of <a href="https://www.kcl.ac.uk/ioppn">King's College London and University College London BRCs</a> (<a href="https://phidatalab.org">PHIDatalab</a>) investigating the ongoing COVID-19 outbreak - both the disease itself and the impact measures to control it are having on our lives. A key feature of this study is the use of wearable data which will be used to investigate changes in measurements such as heart rate during infection with coronavirus.
 - template: 3-column-text
   block: three-column-1
   col_1:
@@ -59,8 +61,8 @@ page_sections:
 - template: content-feature
   block: feature-2
   media_alignment: Right
-  headline: Mass Science App + Covid Collab
-  content: "Data for the <strong>Covid Collab</strong> study will use the <strong>Mass Science</strong> app developed here at King's College London for data collection."
+  headline: Mass Science App + COVID Collab
+  content: "Data for the <strong>COVID Collab</strong> study will use the <strong>Mass Science</strong> app developed here at King's College London for data collection."
   media:
     image: '/uploads/2020/06/29/masssci-rot-crop-64-opt.gif'
     alt_text: ''
@@ -124,7 +126,7 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   caption: "<h3>Core Team</h3>"
-  image: '/uploads/2020/04/01/core-team.png'
+  image: "/uploads/2020/08/04/core-team2.png"
 - template: 2-column-text
   block: two-column-1
   col_1:
@@ -142,10 +144,16 @@ page_sections:
   block: media-1
   caption: ""
   image: '/uploads/2020/04/01/affiliations2.png'
-- template: 4-column-Footer
+- template: 4-column-footer-b
+  block: footer-2-b
+  col_1: '<a href="https://twitter.com/covid_collab" target="_blank" title="Share on Twitter"><img src="/uploads/2020/08/04/twitter.png"></a>'
+  col_2: '<a href="https://www.facebook.com/COVID-Collab-Study-631122017519709" target="_blank" title="Share on Facebook"><img src="/uploads/2020/08/04/facebook.png"></a>'
+  col_3:
+  col_4:
+- template: 4-column-footer
   block: footer-2
   image: '/uploads/2020/04/01/covid_app_fitbit_sym2.png'
-  col_2: '<a href="/privacy_policy.html" title="Privacy Policy">Privacy Policy</a></br></br><a href="/disclaimer.html" title="Disclaimer">Disclaimer</a>'
-  col_3: '<a href="/contact_us.html">Contact Us</a>'
-  col_4: '<a href="/faqs.html">FAQs and Information</a>'
+  col_2: '<a href="/privacy_policy.html" title="Privacy Policy">Privacy Policy</a>'
+  col_3: '<a href="/contact_us.html" title="Contact Us">Contact Us</a>'
+  col_4: '<a href="/disclaimer.html" title="Disclaimer">Disclaimer</a>'
 ---

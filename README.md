@@ -20,3 +20,8 @@
 
 To use the page builder, select the **Page Builder** template when creating a new page.
 
+
+
+
+#Build instructions for covid-collab.org jekyll site
+if you use `jekyll serve` to build the website then it will use localhost:4000 as the link, but if you use `jekyll build` then it will correctly use the url in the config. (the full command I use is `bundle exec jekyll build --config _config.yml`)
