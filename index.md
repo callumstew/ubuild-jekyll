@@ -19,7 +19,7 @@ page_sections:
     link_text: Team
 - template: hero-banner-w-image
   block: hero-2
-  headline: Covid<br><strong>Collab</strong><br>
+  headline: COVID<br><strong>Collab</strong><br>
   content: |
     Welcome to the <b>Covid Collab Research Study</b>
 
