@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Delete your data from the Mass Science app
-date: 2023-12-27
+date: 2020-03-22T22:00:00.000+00:00
 page_sections:
 - template: navigation-header
   block: header-1
@@ -38,3 +38,4 @@ page_sections:
   media:
     image: 'uploads/images/registration/app_home_menu_small.png'
     alt_text: 'Home page with menu pressed showing option to log out or leave study'
+---
